@@ -1,0 +1,62 @@
+/* AgroVision AI - agricultural theme (dark green / light green / white / neutral) */
+:root {
+  --dark: #1B4332;
+  --mid: #2D6A4F;
+  --light: #B7E4C7;
+  --pale: #F1F8F4;
+  --text: #1f2d27;
+  --muted: #5f6f67;
+}
+
+.block-container { padding-top: 2rem; max-width: 1250px; }
+
+h1.page-title {
+  color: var(--dark);
+  font-size: 1.75rem;
+  font-weight: 650;
+  border-bottom: 3px solid var(--light);
+  padding-bottom: .4rem;
+  margin-bottom: 1.2rem;
+}
+h2, h3 { color: var(--mid); font-weight: 600; }
+h2 { font-size: 1.3rem; }
+h3 { font-size: 1.1rem; }
+
+[data-testid="stSidebar"] { background: var(--pale); border-right: 1px solid #d8e5dd; }
+[data-testid="stSidebar"] h3 { color: var(--dark); margin-bottom: 0; }
+
+[data-testid="stMetric"] {
+  background: #fff;
+  border: 1px solid #d8e5dd;
+  border-left: 5px solid var(--mid);
+  border-radius: 8px;
+  padding: .7rem .9rem;
+}
+[data-testid="stMetricLabel"] { color: var(--muted); }
+[data-testid="stMetricValue"] { color: var(--dark); font-size: 1.5rem; }
+
+.stTabs [data-baseweb="tab-list"] { gap: .25rem; }
+.stTabs [aria-selected="true"] { color: var(--dark); border-bottom-color: var(--mid); }
+
+.stButton > button, .stDownloadButton > button {
+  background: var(--mid); color: #fff; border: 0; border-radius: 6px; font-weight: 600;
+}
+.stButton > button:hover, .stDownloadButton > button:hover { background: var(--dark); color: #fff; }
+
+.finding-box {
+  background: var(--pale);
+  border-left: 4px solid var(--mid);
+  padding: .6rem 1rem;
+  border-radius: 4px;
+  margin-bottom: .5rem;
+}
+
+.result-card {
+  background: #fff;
+  border: 1px solid #d8e5dd;
+  border-top: 5px solid var(--mid);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+}
+.result-card .big { font-size: 2rem; font-weight: 700; color: var(--dark); }
+.result-card .small { color: var(--muted); font-size: .9rem; }

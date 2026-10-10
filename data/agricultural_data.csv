@@ -1,0 +1,701 @@
+Record_ID,State,District,Crop_Type,Season,Area_Hectares,Annual_Rainfall_mm,Average_Temperature_C,Soil_Type,Soil_pH,Nitrogen,Phosphorus,Potassium,Fertilizer_Usage,Irrigation_Type,Previous_Year_Yield,Crop_Yield
+AGV-0001,Maharashtra,Nashik,Groundnut,Kharif,1.76,1126.8,27.8,Black,7.42,172.4,28.2,324.9,53.0,Tube Well,1.6,1.61
+AGV-0002,Uttar Pradesh,Varanasi,Wheat,Rabi,9.92,981.6,21.4,Alluvial,6.34,207.7,28.4,167.2,119.7,Canal,3.44,2.81
+AGV-0003,Punjab,Patiala,Cotton,Kharif,1.44,779.3,25.5,Loamy,6.59,280.1,34.3,,78.3,Tube Well,,2.19
+AGV-0004,Haryana,Hisar,Soybean,Kharif,3.03,485.4,25.5,Sandy,6.34,121.4,11.9,121.3,43.4,Sprinkler,1.57,1.55
+AGV-0005,Haryana,Hisar,Maize,Kharif,2.26,386.3,24.5,Sandy,6.05,139.7,12.8,102.0,206.7,Drip,3.35,4.04
+AGV-0006,Punjab,Ludhiana,Wheat,Rabi,3.05,709.8,19.4,Alluvial,6.73,169.6,32.6,170.9,139.4,Canal,3.94,4.69
+AGV-0007,Madhya Pradesh,Bhopal,Rice,Kharif,4.99,1256.7,30.2,Black,7.27,178.2,19.0,259.0,79.4,Sprinkler,2.89,3.43
+AGV-0008,Gujarat,Anand,Maize,Kharif,2.68,888.0,27.5,Black,6.84,209.9,19.6,257.7,116.5,Sprinkler,4.24,4.57
+AGV-0009,Maharashtra,Nagpur,Rice,Kharif,1.68,1029.1,30.7,Red,5.96,191.0,17.7,110.5,89.8,Drip,3.26,4.4
+AGV-0010,Andhra Pradesh,Guntur,Groundnut,Summer,10.61,986.8,32.0,Red,6.1,147.4,14.7,,47.4,Tube Well,1.44,1.49
+AGV-0011,Gujarat,Rajkot,Cotton,Kharif,2.6,848.9,31.3,Sandy,6.58,104.3,11.4,153.0,184.5,Drip,2.04,1.63
+AGV-0012,Punjab,Ludhiana,Bajra,Kharif,2.89,673.4,25.8,Loamy,6.95,309.2,36.8,238.9,32.4,Rainfed,1.57,1.7
+AGV-0013,West Bengal,Hooghly,Wheat,Rabi,2.51,1505.7,20.5,Clay,7.65,231.4,39.1,232.7,105.5,Canal,2.41,2.41
+AGV-0014,Madhya Pradesh,Indore,Rice,Kharif,1.78,870.4,27.6,Red,,143.9,21.6,178.2,96.4,Tube Well,3.46,2.91
+AGV-0015,Andhra Pradesh,Krishna,Cotton,Kharif,13.04,1143.4,28.9,Red,5.11,122.9,34.1,108.2,79.2,Drip,1.09,1.65
+AGV-0016,Maharashtra,Pune,Cotton,Kharif,3.61,886.9,28.7,Black,7.63,195.2,17.0,267.0,101.6,Drip,2.19,1.96
+AGV-0017,West Bengal,Nadia,Soybean,Kharif,1.23,1317.5,28.5,Clay,7.16,306.1,41.5,259.3,39.8,Rainfed,1.42,1.53
+AGV-0018,Tamil Nadu,Thanjavur,Chickpea,Rabi,9.74,992.4,22.4,Clay,7.22,199.2,27.3,228.2,41.9,Rainfed,1.19,0.97
+AGV-0019,Uttar Pradesh,Lucknow,Soybean,Kharif,8.49,1186.7,25.2,Alluvial,7.39,207.4,31.5,153.9,45.2,Tube Well,1.77,1.49
+AGV-0020,Gujarat,Surat,Wheat,Rabi,7.66,876.5,22.1,Sandy,6.19,155.3,11.9,128.6,122.8,Rainfed,3.74,3.16
+AGV-0021,Karnataka,Dharwad,Rice,Kharif,3.85,1220.0,28.5,Loamy,6.49,200.0,36.3,164.6,98.1,Rainfed,4.52,4.64
+AGV-0022,Tamil Nadu,Madurai,Maize,Rabi,1.9,737.2,21.1,Alluvial,7.27,165.5,46.3,204.5,180.5,Sprinkler,5.02,4.7
+AGV-0023,West Bengal,Hooghly,Bajra,Kharif,1.55,1566.9,28.6,Alluvial,7.45,181.8,31.0,255.5,48.0,Tube Well,1.44,1.31
+AGV-0024,Tamil Nadu,Coimbatore,Maize,Rabi,0.83,1228.3,21.7,Clay,6.3,280.3,25.0,245.2,,Canal,2.59,2.85
+AGV-0025,Punjab,Ludhiana,Maize,Summer,3.6,510.6,30.1,Loamy,6.59,260.7,42.9,215.9,175.9,Canal,3.75,4.31
+AGV-0026,West Bengal,Hooghly,Rice,Kharif,1.74,1545.7,27.8,Loamy,7.17,167.7,26.0,156.1,59.6,Rainfed,3.45,3.83
+AGV-0027,West Bengal,Hooghly,Groundnut,Summer,5.71,1877.3,32.1,Alluvial,6.62,197.7,22.1,159.1,40.4,Drip,1.05,1.47
+AGV-0028,Punjab,Amritsar,Rice,Kharif,3.9,635.9,25.1,Sandy,6.26,107.2,13.6,119.8,113.4,Tube Well,3.52,3.06
+AGV-0029,Gujarat,Surat,Wheat,Rabi,7.1,951.0,21.8,Sandy,6.66,184.7,26.9,111.5,136.4,Rainfed,3.19,2.84
+AGV-0030,Andhra Pradesh,Kurnool,Soybean,Kharif,2.17,871.9,28.3,Red,5.77,226.8,26.4,115.5,55.5,Tube Well,1.67,1.59
+AGV-0031,Uttar Pradesh,Varanasi,Wheat,Rabi,1.61,1294.9,20.8,Alluvial,,223.7,37.0,187.9,123.5,Tube Well,2.37,2.75
+AGV-0032,Punjab,Ludhiana,Maize,Kharif,0.91,651.0,26.7,Sandy,6.36,153.8,10.1,102.9,77.0,Canal,4.15,4.18
+AGV-0033,Tamil Nadu,Thanjavur,Cotton,Kharif,5.65,1106.4,28.2,Clay,7.41,158.6,26.0,244.8,107.2,Rainfed,2.01,1.9
+AGV-0034,Gujarat,Anand,Rice,Summer,10.49,991.8,32.7,Sandy,7.13,120.0,23.0,112.9,129.7,Rainfed,2.23,2.44
+AGV-0035,Andhra Pradesh,Guntur,Bajra,Kharif,2.45,1138.1,25.4,Red,5.55,118.1,16.3,147.1,56.9,Sprinkler,1.0,0.96
+AGV-0036,Madhya Pradesh,Bhopal,Maize,Kharif,1.47,1247.6,31.1,Red,5.86,151.4,16.6,113.9,96.4,Tube Well,2.34,2.22
+AGV-0037,Maharashtra,Pune,Soybean,Kharif,3.49,747.0,28.8,Black,7.88,154.1,23.6,295.1,38.2,Canal,1.95,1.44
+AGV-0038,Andhra Pradesh,Krishna,Maize,Summer,10.89,964.5,31.4,Black,8.12,286.5,17.9,236.8,150.2,Rainfed,3.32,2.88
+AGV-0039,Andhra Pradesh,Krishna,Groundnut,Kharif,8.32,949.6,28.2,Red,6.27,167.1,12.8,155.2,37.8,Canal,1.66,1.71
+AGV-0040,Gujarat,Anand,Chickpea,Rabi,3.64,746.3,22.4,Black,7.16,216.7,19.6,216.6,49.6,Canal,1.75,1.37
+AGV-0041,Gujarat,Rajkot,Bajra,Kharif,2.17,756.3,28.4,Sandy,7.11,107.8,8.8,151.8,128.9,Canal,1.4,1.23
+AGV-0042,Karnataka,Dharwad,Wheat,Rabi,0.75,850.6,21.5,Red,6.82,165.0,18.4,136.1,156.4,Drip,3.01,3.21
+AGV-0043,Maharashtra,Pune,Maize,Kharif,1.46,839.4,26.7,Black,7.88,248.8,22.1,199.6,139.3,Drip,4.1,4.02
+AGV-0044,Karnataka,Mysuru,Wheat,Rabi,4.2,1133.3,20.9,Black,7.48,157.8,29.6,300.3,265.7,Rainfed,3.05,3.23
+AGV-0045,West Bengal,Nadia,Maize,Summer,3.86,1352.8,31.3,Clay,6.98,242.1,40.7,219.0,1266.027793889462,Rainfed,2.95,2.55
+AGV-0046,Madhya Pradesh,Indore,Chickpea,Rabi,1.37,863.9,20.7,Black,8.3,191.4,18.5,276.8,54.8,Canal,1.33,1.14
+AGV-0047,Uttar Pradesh,Meerut,Maize,Kharif,2.78,912.6,27.2,Alluvial,6.45,166.0,38.0,177.1,103.0,Rainfed,3.28,4.88
+AGV-0048,West Bengal,Hooghly,Maize,Kharif,3.4,1391.8,26.3,Alluvial,7.2,222.3,36.7,183.0,152.2,Rainfed,3.71,3.59
+AGV-0049,Madhya Pradesh,Bhopal,Rice,Kharif,3.03,963.2,28.1,Loamy,7.22,331.7,41.0,195.0,91.8,Tube Well,3.65,4.05
+AGV-0050,Andhra Pradesh,Krishna,Cotton,Kharif,0.72,1078.8,29.7,Alluvial,7.56,246.7,38.5,215.8,121.8,Drip,1.65,1.79
+AGV-0051,West Bengal,Hooghly,Soybean,Kharif,2.88,1876.6,28.0,Alluvial,7.09,180.7,35.3,192.3,33.8,Rainfed,1.38,1.08
+AGV-0052,Maharashtra,Pune,Cotton,Kharif,2.72,709.5,27.8,Clay,6.86,167.7,31.8,259.5,64.4,Tube Well,2.36,2.25
+AGV-0053,West Bengal,Bardhaman,Bajra,Kharif,2.55,1489.2,29.9,Clay,7.69,205.1,20.5,225.2,64.0,Tube Well,1.25,1.15
+AGV-0054,Andhra Pradesh,Guntur,Maize,Summer,3.07,1024.7,31.3,Red,5.68,207.3,15.0,91.7,80.1,Tube Well,2.52,2.57
+AGV-0055,Tamil Nadu,Coimbatore,Groundnut,Rabi,13.77,887.5,20.9,Alluvial,6.6,207.5,45.7,274.4,40.7,Canal,2.09,1.67
+AGV-0056,Tamil Nadu,Madurai,Bajra,Kharif,3.03,867.5,30.5,Alluvial,6.84,201.4,40.2,191.2,65.2,Tube Well,1.56,1.52
+AGV-0057,Punjab,Patiala,Wheat,Rabi,3.75,715.7,18.0,Alluvial,7.37,172.8,28.9,169.0,128.2,Tube Well,3.99,3.32
+AGV-0058,Tamil Nadu,Madurai,Soybean,Kharif,3.78,932.7,29.0,Red,6.0,189.8,15.1,110.7,36.0,Canal,1.38,1.63
+AGV-0059,West Bengal,Hooghly,Rice,Kharif,4.1,1603.2,27.5,Clay,7.67,185.9,22.6,264.1,75.7,Canal,2.97,3.05
+AGV-0060,Tamil Nadu,Coimbatore,Wheat,Rabi,7.57,936.8,20.4,Clay,6.86,225.6,32.2,211.9,174.8,Canal,3.43,3.64
+AGV-0061,Maharashtra,Pune,Wheat,Rabi,3.01,754.3,20.8,Clay,8.05,203.7,31.1,229.1,133.0,Rainfed,4.16,3.73
+AGV-0062,Haryana,Karnal,Chickpea,Rabi,2.26,747.5,20.8,Alluvial,7.1,258.1,36.2,241.6,43.6,Canal,1.02,1.54
+AGV-0063,West Bengal,Hooghly,Groundnut,Kharif,10.94,1388.0,26.9,Alluvial,7.62,201.6,56.1,189.9,50.9,Rainfed,1.33,1.53
+AGV-0064,Madhya Pradesh,Indore,Soybean,Kharif,1.3,1077.3,28.1,Black,7.67,196.2,25.4,316.8,37.0,Canal,1.41,1.65
+AGV-0065,Punjab,Amritsar,Cotton,Kharif,6.02,621.4,26.6,Alluvial,7.28,170.9,34.8,178.8,95.2,Canal,2.79,2.53
+AGV-0066,Maharashtra,Nagpur,Groundnut,Rabi,3.94,1010.7,22.2,Red,5.87,140.3,18.0,158.9,,Tube Well,1.39,1.54
+AGV-0067,Maharashtra,Pune,Soybean,Kharif,3.94,662.3,26.4,Black,7.34,201.9,22.4,261.8,60.2,Rainfed,1.76,1.72
+AGV-0068,Karnataka,Dharwad,Cotton,Kharif,3.0,1017.1,29.1,Black,8.33,207.4,21.2,308.5,93.9,Drip,1.62,1.9
+AGV-0069,West Bengal,Hooghly,Chickpea,Rabi,1.11,1615.5,19.9,Clay,6.81,190.6,32.1,198.2,45.6,Tube Well,1.02,0.99
+AGV-0070,Tamil Nadu,Madurai,Maize,Kharif,2.86,4142.044624626899,29.7,Alluvial,6.93,285.8,28.5,238.3,115.4,Canal,3.88,3.32
+AGV-0071,Uttar Pradesh,Lucknow,Bajra,Kharif,3.65,796.8,26.1,Alluvial,7.1,279.0,64.6,169.0,92.3,Tube Well,1.69,1.58
+AGV-0072,Gujarat,Anand,Wheat,Rabi,8.0,913.8,21.6,Black,7.53,200.3,29.3,290.3,106.8,Rainfed,3.6,3.89
+AGV-0073,Maharashtra,Pune,Chickpea,Rabi,9.86,859.9,19.4,Black,8.12,156.7,19.7,363.4,51.5,Canal,1.02,1.15
+AGV-0074,Uttar Pradesh,Lucknow,Bajra,Summer,2.42,1006.2,30.0,Alluvial,7.2,,26.5,181.2,56.8,Canal,1.38,1.64
+AGV-0075,Punjab,Patiala,Rice,Summer,11.87,836.3,29.8,Loamy,7.38,242.7,36.3,206.3,120.1,Tube Well,2.9,3.05
+AGV-0076,Tamil Nadu,Coimbatore,Wheat,Rabi,3.28,1049.8,23.5,Red,5.98,190.3,21.4,125.1,160.3,Canal,2.8,2.31
+AGV-0077,Gujarat,Rajkot,Bajra,Kharif,1.2,672.9,27.5,Sandy,6.11,202.3,25.1,101.3,53.8,Drip,1.4,1.19
+AGV-0078,Uttar Pradesh,Varanasi,Maize,Rabi,1.0,990.7,21.1,Loamy,6.21,279.9,29.5,238.3,139.6,Tube Well,4.04,3.74
+AGV-0079,West Bengal,Hooghly,Rice,Kharif,1.04,1746.1,30.9,Alluvial,7.88,176.4,25.4,255.7,87.4,Rainfed,3.07,2.78
+AGV-0080,Tamil Nadu,Coimbatore,Rice,Kharif,1.0,1221.5,29.4,Red,6.3,146.5,19.1,121.4,54.2,Canal,2.59,2.94
+AGV-0081,Haryana,Rohtak,Rice,Rabi,1.93,556.1,18.1,Loamy,7.04,273.6,31.2,234.9,142.2,Tube Well,2.22,2.34
+AGV-0082,Uttar Pradesh,Varanasi,Maize,Kharif,1.96,951.1,28.4,Alluvial,7.28,290.9,44.0,155.5,232.0,Tube Well,4.09,4.45
+AGV-0083,West Bengal,Hooghly,Chickpea,Rabi,12.07,1914.4,19.8,Alluvial,7.14,193.1,27.3,221.8,39.5,Tube Well,1.18,0.99
+AGV-0084,West Bengal,Bardhaman,Maize,Kharif,4.04,1287.1,29.0,Clay,7.49,233.7,41.1,320.7,125.1,Sprinkler,2.72,2.57
+AGV-0085,Andhra Pradesh,Krishna,Rice,Kharif,14.9,770.0,26.0,Red,6.26,161.8,21.3,107.4,119.2,Tube Well,3.65,3.84
+AGV-0086,Gujarat,Anand,Rice,Kharif,5.48,699.3,28.0,Sandy,5.98,109.3,16.2,72.5,144.3,,1.93,2.61
+AGV-0087,Andhra Pradesh,Kurnool,Cotton,Kharif,0.91,1098.1,28.0,Red,6.08,177.1,31.7,134.4,123.1,Canal,1.41,1.74
+AGV-0088,Haryana,Hisar,Soybean,Kharif,3.72,476.0,24.1,Alluvial,6.94,,20.0,153.3,65.0,Sprinkler,2.23,1.82
+AGV-0089,Karnataka,Belagavi,Rice,Summer,6.24,1264.1,32.2,Black,7.56,166.1,42.8,298.9,96.3,Sprinkler,3.11,3.18
+AGV-0090,Madhya Pradesh,Jabalpur,Chickpea,Rabi,0.75,1089.8,20.4,Black,7.57,185.8,22.5,259.6,52.7,Rainfed,1.17,1.33
+AGV-0091,Haryana,Rohtak,Wheat,Rabi,3.46,422.1,20.7,Loamy,6.98,179.8,35.8,225.9,153.6,Tube Well,5.44,4.61
+AGV-0092,Madhya Pradesh,Bhopal,Soybean,Kharif,1.94,1217.7,29.9,Black,7.31,212.5,19.1,244.8,77.9,Tube Well,1.01,1.34
+AGV-0093,West Bengal,Bardhaman,Chickpea,Rabi,5.05,1639.8,20.5,Loamy,6.71,219.7,31.1,241.3,43.2,Rainfed,1.13,1.06
+AGV-0094,West Bengal,Nadia,Groundnut,Summer,4.1,1297.0,35.3,Loamy,7.25,285.8,36.3,201.1,42.3,Tube Well,1.15,1.28
+AGV-0095,Haryana,Hisar,Soybean,Kharif,0.3,444.8,25.1,Sandy,6.11,96.8,17.0,108.2,43.8,Canal,1.6,1.23
+AGV-0096,Andhra Pradesh,Guntur,Maize,Kharif,2.76,1026.8,32.5,Red,6.58,151.4,17.2,131.2,163.1,Tube Well,3.34,2.66
+AGV-0097,Haryana,Rohtak,Soybean,Kharif,1.01,568.3,25.4,Alluvial,6.62,239.0,41.0,191.5,34.0,Tube Well,1.51,1.67
+AGV-0098,Maharashtra,Pune,Rice,Kharif,3.29,792.2,31.1,Red,5.24,149.1,30.6,153.2,142.1,Rainfed,2.95,2.75
+AGV-0099,Madhya Pradesh,Bhopal,Rice,Kharif,1.2,1118.2,28.0,Black,7.52,164.9,22.0,224.5,132.2,Sprinkler,3.46,4.3
+AGV-0100,Uttar Pradesh,Lucknow,Groundnut,Kharif,6.14,1024.1,24.3,Alluvial,6.98,315.2,33.1,192.6,53.0,Tube Well,1.4,1.46
+AGV-0101,Punjab,Patiala,Groundnut,Kharif,2.62,608.5,21.9,Loamy,6.69,232.0,32.4,260.6,64.5,Tube Well,2.33,1.77
+AGV-0102,Gujarat,Surat,Maize,Kharif,3.63,5773.394401899766,30.1,Alluvial,6.24,186.1,46.8,180.3,180.1,Canal,4.87,4.04
+AGV-0103,Gujarat,Surat,Chickpea,Rabi,5.56,752.5,20.9,Black,7.54,187.3,17.0,246.9,32.1,Drip,1.32,1.44
+AGV-0104,Madhya Pradesh,Indore,Bajra,Kharif,3.94,893.5,26.3,Red,5.97,182.5,13.4,140.7,56.2,Drip,0.96,1.15
+AGV-0105,Tamil Nadu,Thanjavur,Wheat,Rabi,6.38,1211.3,21.8,Clay,7.45,185.0,27.2,173.5,64.3,Canal,,2.04
+AGV-0106,Madhya Pradesh,Jabalpur,Maize,Rabi,8.25,1088.0,21.5,Loamy,6.91,318.8,27.6,207.7,196.7,Rainfed,4.05,3.71
+AGV-0107,Uttar Pradesh,Lucknow,Maize,Rabi,0.72,998.5,20.1,Clay,7.18,213.0,23.6,267.0,300.0,Tube Well,3.11,3.53
+AGV-0108,Madhya Pradesh,Bhopal,Rice,Rabi,3.37,1379.2,17.5,Black,8.52,214.0,31.4,219.4,93.5,Rainfed,2.56,2.47
+AGV-0109,Haryana,Rohtak,Chickpea,Rabi,7.65,424.3,20.3,Loamy,5.71,269.7,24.8,212.3,38.6,Tube Well,1.47,1.58
+AGV-0110,Madhya Pradesh,Indore,Bajra,Kharif,2.76,798.9,28.6,Loamy,6.01,274.8,37.2,338.5,43.1,Tube Well,1.74,1.75
+AGV-0111,Karnataka,Belagavi,Rice,Summer,4.02,1188.1,29.1,Red,5.96,173.5,18.9,101.4,161.4,Rainfed,3.62,3.51
+AGV-0112,Andhra Pradesh,Krishna,Wheat,Rabi,0.99,1078.9,21.2,Red,6.01,156.0,24.9,125.8,81.1,Canal,2.03,2.27
+AGV-0113,Gujarat,Anand,Cotton,Kharif,3.69,737.9,28.3,Black,7.86,131.6,25.5,409.7,96.0,Canal,2.13,2.39
+AGV-0114,Punjab,Amritsar,Groundnut,Rabi,1.77,577.6,18.1,Alluvial,6.76,245.4,22.9,234.3,29.6,Rainfed,1.71,1.76
+AGV-0115,Karnataka,Dharwad,Rice ,Kharif,2.58,1006.6,27.5,Black,7.7,154.3,21.1,336.2,79.6,Tube Well,3.73,3.42
+AGV-0116,Madhya Pradesh,Indore,Rice,Summer,1.77,878.6,31.1,Black,7.94,183.1,30.0,239.8,99.7,Rainfed,3.18,2.62
+AGV-0117,Uttar Pradesh,Meerut,Cotton,Kharif,5.88,793.6,26.3,Loamy,6.52,198.4,27.7,204.0,76.4,Canal,3.01,1.93
+AGV-0118,West Bengal,Hooghly,Wheat,Rabi,5.73,1958.4,22.7,Clay,7.33,164.8,29.5,191.8,201.6,Tube Well,1.67,2.31
+AGV-0119,Maharashtra,Nagpur,Chickpea,Rabi,2.31,1031.6,22.5,Clay,6.45,209.7,30.0,226.0,22.9,Tube Well,0.94,0.93
+AGV-0120,Andhra Pradesh,Guntur,Chickpea,Rabi,0.63,944.1,22.1,Red,5.04,174.3,20.0,141.1,53.4,,,0.8
+AGV-0121,Tamil Nadu,Thanjavur,Wheat,Rabi,5.14,1112.9,21.6,Clay,6.25,241.2,38.0,273.0,99.8,Rainfed,3.48,3.07
+AGV-0122,Andhra Pradesh,Krishna,Chickpea,Rabi,1.88,1050.1,22.9,Red,5.94,166.5,18.7,188.2,30.5,Drip,1.03,0.92
+AGV-0123,Andhra Pradesh,Kurnool,Bajra,Kharif,1.72,952.1,30.0,Black,7.51,208.5,22.3,320.3,69.2,Tube Well,1.59,1.36
+AGV-0124,Karnataka,Belagavi,Rice,Kharif,6.03,1357.9,27.9,Red,5.97,154.1,23.7,130.0,128.8,Canal,3.42,3.52
+AGV-0125,Andhra Pradesh,Krishna,Cotton,Kharif,3.71,1185.5,26.6,Red,6.23,206.7,17.8,142.9,60.2,Sprinkler,1.39,1.23
+AGV-0126,Uttar Pradesh,Varanasi,Groundnut,Kharif,1.93,732.0,27.1,Alluvial,6.74,166.4,35.8,173.6,32.6,Tube Well,2.38,2.43
+AGV-0127,Maharashtra,Nashik,Rice,Summer,0.3,930.1,32.7,Black,7.45,219.2,27.6,156.2,171.5,Rainfed,3.33,2.76
+AGV-0128,Tamil Nadu,Coimbatore,Rice,Kharif,0.76,1063.7,28.9,Alluvial,6.46,198.1,24.8,225.9,149.5,Rainfed,3.77,4.06
+AGV-0129,Punjab,Ludhiana,Groundnut,Summer,0.71,621.2,28.8,Alluvial,6.43,223.8,23.5,122.8,40.2,Tube Well,2.07,2.18
+AGV-0130,Gujarat,Surat,Rice,Rabi,3.42,839.7,22.3,Black,7.34,235.5,17.8,264.4,100.7,Drip,3.25,3.18
+AGV-0131,Haryana,Rohtak,Rice,Kharif,5.55,480.8,27.7,Alluvial,6.89,208.2,32.8,266.8,80.3,Canal,3.31,2.71
+AGV-0132,Maharashtra,Nagpur,Wheat,Rabi,4.1,965.3,19.8,Clay,7.07,217.6,23.1,204.3,86.4,Sprinkler,3.0,3.05
+AGV-0133,Uttar Pradesh,Varanasi,Cotton,Kharif,7.37,889.6,30.8,Loamy,6.6,212.9,40.1,220.8,72.2,Tube Well,1.63,1.87
+AGV-0134,Karnataka,Mysuru,Bajra,Kharif,3.04,1030.2,29.9,Loamy,6.87,238.8,30.5,235.9,69.2,Tube Well,1.44,1.32
+AGV-0135,Madhya Pradesh,Jabalpur,Cotton,Kharif,5.41,1056.2,27.3,Black,8.39,183.0,28.3,258.6,113.8,Rainfed,2.23,1.88
+AGV-0136,Maharashtra,Pune,Soybean,Kharif,5.54,737.1,25.9,Black,7.35,225.2,27.2,285.8,35.7,Rainfed,1.97,1.52
+AGV-0137,Tamil Nadu,Coimbatore,Wheat,Rabi,2.34,747.6,21.1,Clay,6.71,161.8,43.1,253.5,145.7,Rainfed,4.42,3.84
+AGV-0138,Punjab,Patiala,Rice,Kharif,1.44,558.8,25.6,Alluvial,7.03,174.5,31.7,192.1,62.8,Canal,3.37,3.33
+AGV-0139,Uttar Pradesh,Varanasi,Wheat,Rabi,3.24,896.3,19.6,Clay,7.41,217.5,32.8,246.4,166.2,Tube Well,3.51,3.37
+AGV-0140,Gujarat,Rajkot,Chickpea,Rabi,3.55,740.1,23.2,Sandy,6.37,118.6,22.7,89.2,31.5,Canal,1.15,1.11
+AGV-0141,Gujarat,Rajkot,Maize,Kharif,2.93,816.8,29.3,Black,8.15,221.0,24.3,238.2,142.9,Rainfed,4.74,3.62
+AGV-0142,Karnataka,Belagavi,Cotton,Kharif,8.21,1147.6,28.0,Red,5.54,150.2,21.3,165.8,121.1,Rainfed,,1.59
+AGV-0143,Maharashtra,Nagpur,Rice,Rabi,3.59,1113.3,20.5,Black,7.86,197.7,28.8,236.4,86.9,Tube Well,3.06,3.09
+AGV-0144,Maharashtra,Nashik,Cotton,Kharif,1.83,1150.3,29.0,Black,8.07,250.3,48.5,198.9,88.1,Drip,1.42,1.51
+AGV-0145,Maharashtra,Pune,Maize,Summer,0.75,858.6,32.9,Black,7.63,293.0,25.4,192.9,103.6,Rainfed,3.07,3.13
+AGV-0146,Andhra Pradesh,Kurnool,Wheat,Rabi,1.57,884.4,22.1,Red,5.98,114.6,19.1,140.4,121.9,Canal,2.65,2.59
+AGV-0147,Uttar Pradesh,Meerut,Maize,Summer,1.5,963.2,32.4,Loamy,6.6,276.7,46.0,271.9,238.7,Rainfed,3.95,3.95
+AGV-0148,Punjab,Patiala,Cotton,Kharif,3.75,715.9,24.8,Loamy,6.31,250.3,37.4,235.8,211.9,Tube Well,1.96,2.36
+AGV-0149,Madhya Pradesh,Jabalpur,Wheat,Rabi,4.45,1019.4,19.6,Black,7.66,249.5,19.6,211.9,172.5,Rainfed,2.7,3.14
+AGV-0150,West Bengal,Bardhaman,Rice,Rabi,4.66,1543.0,17.4,Loamy,7.27,194.0,39.1,220.6,166.1,Rainfed,2.6,2.32
+AGV-0151,Punjab,Ludhiana,Maize,Kharif,3.32,656.7,23.2,Alluvial,6.8,237.1,24.4,215.6,183.9,Canal,4.09,3.67
+AGV-0152,Haryana,Hisar,Wheat,Rabi,0.85,524.7,19.9,Sandy,6.71,138.8,19.0,173.5,174.0,Drip,4.48,4.02
+AGV-0153,Andhra Pradesh,Guntur,Soybean,Kharif,4.03,906.3,28.2,Red,5.76,146.5,16.0,80.6,43.9,Rainfed,1.96,1.46
+AGV-0154,West Bengal,Hooghly,Cotton,Kharif,2.42,1880.7,28.1,Loamy,7.02,256.4,33.5,227.7,215.0,Canal,1.9,1.68
+AGV-0155,Madhya Pradesh,Indore,Wheat,Rabi,2.02,1150.2,21.3,Black,8.25,170.0,16.3,295.0,128.7,Rainfed,3.83,2.69
+AGV-0156,Maharashtra,Nashik,Rice,Kharif,5.46,769.0,27.7,Red,6.27,134.4,19.1,121.9,188.3,Rainfed,3.43,3.35
+AGV-0157,Gujarat,Anand,Groundnut,Summer,22.74,878.4,34.8,Black,,265.3,18.7,261.0,52.0,Tube Well,1.51,1.49
+AGV-0158,Haryana,Karnal,Cotton,Kharif,2.8,658.6,28.9,Alluvial,6.84,141.8,36.3,165.2,111.4,Canal,2.53,2.23
+AGV-0159,Gujarat,Rajkot,Cotton,Kharif,1.47,873.7,30.7,Alluvial,6.98,154.6,38.2,136.3,120.7,Tube Well,1.89,1.81
+AGV-0160,West Bengal,Nadia,Maize,Kharif,1.95,1485.9,27.0,Clay,6.81,156.1,30.1,223.6,68.7,Rainfed,3.33,2.5
+AGV-0161,Punjab,Patiala,Wheat,Rabi,3.25,656.8,19.9,Loamy,5.75,171.7,33.6,286.3,114.1,Tube Well,5.14,4.33
+AGV-0162,Maharashtra,Nagpur,Chickpea,Rabi,2.7,880.5,21.2,Black,7.69,168.3,18.8,295.9,53.9,Drip,1.35,1.26
+AGV-0163,Tamil Nadu,Thanjavur,Cotton,Kharif,2.16,994.0,30.2,Red,6.27,145.3,18.1,156.0,85.8,Canal,1.77,1.57
+AGV-0164,West Bengal,Bardhaman,Maize,Kharif,3.04,1396.7,26.2,Alluvial,6.68,191.4,28.7,247.5,170.8,Rainfed,3.29,3.34
+AGV-0165,Punjab,Patiala,Bajra,Summer,2.77,726.8,31.1,Loamy,6.67,332.8,28.9,219.3,59.4,Tube Well,1.68,1.64
+AGV-0166,Karnataka,Belagavi,Maize,Kharif,0.52,1324.3,26.4,Black,8.14,174.4,31.5,435.7,135.0,Sprinkler,3.39,2.75
+AGV-0167,Uttar Pradesh,Lucknow,Rice,Kharif,3.57,1077.1,29.8,Alluvial,7.16,258.9,29.6,168.5,200.2,Tube Well,4.42,4.68
+AGV-0168,Tamil Nadu,Coimbatore,Cotton,Kharif,2.23,905.2,31.7,Alluvial,6.9,159.1,51.4,217.8,107.7,Tube Well,1.74,2.06
+AGV-0169,Punjab,Amritsar,Maize,Rabi,2.32,644.9,17.7,Sandy,5.77,145.2,18.7,121.1,158.2,Tube Well,2.99,3.23
+AGV-0170,Haryana,Karnal,Rice,Kharif,5.87,545.9,26.3,Alluvial,6.8,151.2,35.3,176.1,63.9,Tube Well,3.96,3.71
+AGV-0171,Maharashtra,Nashik,Bajra,Summer,9.75,878.9,32.3,Black,8.0,144.4,27.0,441.2,72.7,Rainfed,1.49,1.53
+AGV-0172,Haryana,Hisar,Cotton,Kharif,9.27,408.0,28.0,Alluvial,6.96,233.9,35.9,231.8,112.8,Tube Well,2.36,2.24
+AGV-0173,Punjab,Patiala,Bajra,Kharif,2.8,641.9,27.9,Sandy,6.63,92.1,20.7,98.7,91.6,Tube Well,1.76,1.54
+AGV-0174,Karnataka,Dharwad,Maize,Summer,6.31,833.1,32.7,Red,5.63,149.1,12.6,122.2,139.7,Tube Well,3.57,2.69
+AGV-0175,Tamil Nadu,Coimbatore,Wheat,Rabi,2.87,911.8,24.0,Red,6.56,138.1,19.8,142.5,96.7,Tube Well,2.77,2.39
+AGV-0176,Haryana,Karnal,Bajra,Summer,2.65,723.1,29.6,Alluvial,7.26,216.5,25.1,156.9,92.6,Drip,1.68,2.09
+AGV-0177,West Bengal,Hooghly,Soybean,Kharif,4.3,1862.2,26.8,Alluvial,6.99,198.0,34.2,157.1,47.4,Canal,1.1,1.1
+AGV-0178,Uttar Pradesh,Varanasi,Rice,Rabi,2.48,917.7,20.5,Alluvial,6.7,249.1,45.8,173.1,138.8,Tube Well,4.37,3.68
+AGV-0179,Andhra Pradesh,Guntur,Cotton,Kharif,0.65,1117.5,28.0,Red,5.23,164.1,12.9,133.4,161.8,Rainfed,1.44,1.47
+AGV-0180,Gujarat,Anand,Bajra,Summer,3.55,859.8,33.6,Sandy,6.11,151.7,12.1,130.0,85.6,Tube Well,1.1,1.03
+AGV-0181,Uttar Pradesh,Lucknow,Chickpea,Rabi,1.26,956.0,18.8,Clay,7.14,212.6,28.8,247.9,54.6,Canal,1.32,1.14
+AGV-0182,Madhya Pradesh,Jabalpur,Wheat,Rabi,2.94,1009.8,23.8,Loamy,6.23,194.4,26.0,296.7,113.2,Rainfed,2.72,2.97
+AGV-0183,Maharashtra,Nashik,Groundnut,Kharif,5.47,890.6,25.3,Black,8.26,246.4,31.2,254.9,42.8,Tube Well,1.65,1.8
+AGV-0184,Karnataka,Mysuru,Cotton,Kharif,1.94,1073.3,28.6,Red,6.29,141.2,13.3,125.8,143.6,Rainfed,1.42,1.69
+AGV-0185,West Bengal,Nadia,Wheat,rabi,1.34,1395.1,20.8,Loamy,6.61,385.6,41.4,191.4,149.5,Rainfed,2.71,3.38
+AGV-0186,West Bengal,Bardhaman,Cotton,Kharif,7.23,1413.3,27.1,Clay,7.0,274.1,27.3,205.1,,Tube Well,1.5,1.48
+AGV-0187,Uttar Pradesh,Lucknow,Cotton,Kharif,1.0,1071.3,26.0,Alluvial,6.62,224.3,49.3,129.5,119.6,Canal,1.69,1.67
+AGV-0188,Maharashtra,Nagpur,Maize,Kharif,3.02,1092.6,29.1,Black,8.18,151.6,25.9,320.5,102.7,Canal,3.61,2.81
+AGV-0189,Tamil Nadu,Madurai,Cotton,Kharif,3.19,1060.9,27.5,Red,6.12,156.9,23.0,146.6,157.5,Rainfed,2.13,1.82
+AGV-0190,Gujarat,Anand,Rice,Kharif,1.55,784.2,30.2,Sandy,6.94,126.4,22.9,144.6,129.1,Canal,3.03,3.52
+AGV-0191,Haryana,Rohtak,Rice,Kharif,4.74,460.8,31.1,Sandy,6.01,103.7,18.2,149.4,122.3,Tube Well,2.23,2.06
+AGV-0192,Andhra Pradesh,Guntur,Rice,Kharif,3.0,929.8,27.8,Alluvial,,232.4,40.0,,169.0,Canal,4.75,4.57
+AGV-0193,Gujarat,Anand,Rice,Kharif,5.73,835.4,28.0,Black,7.5,160.8,30.7,284.4,92.6,Drip,3.15,3.59
+AGV-0194,Uttar Pradesh,Meerut,wheat,Rabi,3.99,916.1,18.7,Alluvial,7.24,201.6,51.3,190.0,66.5,Rainfed,4.35,4.22
+AGV-0195,Madhya Pradesh,Indore,Rice,Kharif,2.34,827.6,27.0,Loamy,6.5,282.1,44.0,222.0,80.0,Drip,4.92,4.11
+AGV-0196,Tamil Nadu,Coimbatore,Rice,Kharif,2.7,1101.7,28.4,Red,5.56,215.0,27.4,140.7,109.9,Tube Well,4.75,3.94
+AGV-0197,West Bengal,Hooghly,Wheat,Rabi,14.29,1540.4,17.2,Alluvial,6.04,183.2,36.5,194.4,137.4,Tube Well,2.37,2.12
+AGV-0198,Maharashtra,Pune,Groundnut,Kharif,3.3,744.4,31.0,Black,7.79,240.7,23.7,278.3,37.8,Rainfed,1.63,1.86
+AGV-0199,Tamil Nadu,Coimbatore,Soybean,Kharif,9.08,907.4,29.4,CLAY,6.61,193.8,29.5,329.6,53.4,Canal,2.01,1.73
+AGV-0200,Maharashtra,Nagpur,Bajra,Kharif,2.43,1316.1,29.2,Black,7.65,250.4,28.5,414.9,37.7,Drip,0.98,1.22
+AGV-0201,Madhya Pradesh,Indore,Cotton,Kharif,0.58,916.7,28.2,Black,8.24,180.6,20.5,345.9,123.2,Rainfed,2.63,1.94
+AGV-0202,Uttar Pradesh,Lucknow,Rice,Kharif,3.99,1053.6,25.5,Alluvial,6.62,231.1,31.2,213.0,83.0,Canal,4.6,4.76
+AGV-0203,Tamil Nadu,Thanjavur,Wheat,Rabi,6.11,1035.3,20.7,Alluvial,6.78,228.1,29.1,209.4,152.1,Sprinkler,3.71,3.7
+AGV-0204,Uttar Pradesh,Meerut,Wheat,Rabi,3.44,866.8,19.8,Loamy,6.5,226.7,48.3,218.5,272.9,Rainfed,4.43,4.31
+AGV-0205,Karnataka,Mysuru,Wheat,Rabi,1.1,1057.5,18.1,Red,6.25,201.0,16.1,139.8,77.5,Rainfed,2.56,2.99
+AGV-0206,Punjab,Ludhiana,Wheat,Rabi,1.6,586.1,17.6,Sandy,6.57,154.8,21.8,96.3,172.2,Canal,2.94,4.02
+AGV-0207,Tamil Nadu,Coimbatore,Chickpea,Rabi,1.07,872.5,23.2,Clay,7.67,207.3,28.3,279.3,41.6,Tube Well,1.14,1.02
+AGV-0208,Andhra Pradesh,Krishna,Rice,Summer,4.64,922.3,32.8,Red,5.53,127.8,21.7,145.3,147.5,Canal,3.28,3.12
+AGV-0209,Maharashtra,Nashik,Groundnut,Summer,4.61,908.0,32.1,Red,5.62,145.5,15.1,180.3,62.0,Rainfed,1.74,2.13
+AGV-0210,Uttar Pradesh,Meerut,Groundnut,Kharif,4.19,955.7,28.8,Alluvial,6.95,,34.0,200.6,34.3,Sprinkler,1.76,1.88
+AGV-0211,Uttar Pradesh,Lucknow,Maize,Kharif,1.83,958.6,28.3,Alluvial,7.25,248.5,27.2,203.4,,Canal,3.23,3.47
+AGV-0212,Uttar Pradesh,Meerut,Cotton,Kharif,1.7,739.8,28.8,Clay,7.28,235.1,30.8,197.0,70.2,Tube Well,2.24,2.16
+AGV-0213,Haryana,Rohtak,Rice,Kharif,2.54,426.8,25.3,Alluvial,7.04,177.9,31.1,234.8,81.2,Canal,2.85,3.3
+AGV-0214,Haryana,Hisar,Groundnut,Kharif,5.27,441.0,27.2,Alluvial,7.14,264.4,27.9,191.6,44.2,Canal,2.54,2.03
+AGV-0215,Tamil Nadu,Coimbatore,Maize,Kharif,2.85,1102.4,29.1,Red,5.15,114.8,21.3,,106.4,Sprinkler,2.24,2.86
+AGV-0216,Gujarat,Surat,Rice,Kharif,3.69,969.7,30.6,Alluvial,7.33,259.1,24.0,237.4,92.9,Rainfed,3.56,3.42
+AGV-0217,Haryana,Rohtak,Soybean,Kharif,11.18,581.1,26.4,Loamy,6.17,285.6,32.8,224.9,41.2,Sprinkler,1.87,1.81
+AGV-0218,West Bengal,Bardhaman,Bajra,Kharif,2.6,1492.0,23.9,Alluvial,6.98,207.9,26.1,235.9,54.4,Rainfed,0.83,1.03
+AGV-0219,Punjab,Ludhiana,Rice,Kharif,7.08,830.6,27.2,Alluvial,6.75,278.2,26.6,232.5,79.8,Tube Well,3.58,3.94
+AGV-0220,Maharashtra,Pune,Soybean,Kharif,6.36,870.3,28.7,Clay,7.17,194.0,29.1,267.9,92.8,Canal,,1.91
+AGV-0221,Tamil Nadu,Madurai,Chickpea,Rabi,1.76,888.7,23.0,Alluvial,6.92,225.5,42.0,225.8,38.1,Tube Well,1.34,1.34
+AGV-0222,Punjab,Patiala,Rice,Kharif,0.66,733.1,26.9,Alluvial,7.03,194.9,30.0,190.7,118.8,Tube Well,4.0,3.83
+AGV-0223,Karnataka,Mysuru,Cotton,Kharif,3.46,989.2,28.6,Red,6.66,184.2,13.9,133.6,118.8,Tube Well,1.5,1.77
+AGV-0224,Tamil Nadu,Coimbatore,Bajra,Summer,3.56,671.5,32.1,Alluvial,6.76,183.1,33.4,187.9,30.5,Tube Well,1.62,1.4
+AGV-0225,Haryana,Rohtak,Maize,Kharif,2.4,491.0,24.2,Sandy,5.84,117.0,16.0,97.4,168.9,Tube Well,3.54,3.37
+AGV-0226,Punjab,Patiala,Rice,Kharif,1.59,745.7,26.0,Loamy,6.57,181.6,31.7,169.4,71.5,Canal,4.03,3.4
+AGV-0227,Maharashtra,Nagpur,Maize,Kharif,11.42,1043.8,29.2,Clay,6.88,253.8,19.2,187.0,173.2,Rainfed,3.71,3.9
+AGV-0228,Karnataka,Belagavi,Bajra,Kharif,7.03,1210.4,27.7,Loamy,7.22,246.0,48.9,210.3,58.0,Rainfed,2.0,1.27
+AGV-0229,Tamil Nadu,Coimbatore,Groundnut,Kharif,3.25,766.2,31.1,Clay,7.05,214.1,20.3,266.6,,Tube Well,2.29,1.74
+AGV-0230,Karnataka,Belagavi,Rice,Kharif,14.17,1154.4,26.9,Red,6.34,145.2,19.8,102.0,148.2,Canal,4.8,4.24
+AGV-0231,West Bengal,Bardhaman,Cotton,Kharif,0.66,1440.4,25.9,Loamy,6.21,187.2,40.7,317.3,165.5,Tube Well,1.67,1.68
+AGV-0232,Haryana,Hisar,Wheat,Rabi,6.54,494.5,16.3,Sandy,6.4,159.6,16.1,99.6,169.8,Sprinkler,3.54,3.56
+AGV-0233,Karnataka,Dharwad,Maize,Kharif,7.11,879.9,26.1,Black,7.67,208.9,34.4,277.7,189.2,Canal,4.59,4.16
+AGV-0234,Karnataka,Dharwad,Maize,Summer,1.82,1240.2,31.2,Loamy,7.0,264.8,27.8,232.6,92.2,Sprinkler,2.84,2.98
+AGV-0235,Tamil Nadu,Thanjavur,Maize,Kharif,1.04,962.4,29.1,Alluvial,6.86,165.4,25.4,260.0,,Canal,3.77,3.33
+AGV-0236,Karnataka,Dharwad,Cotton,Kharif,2.65,867.0,28.9,Red,5.75,186.9,16.3,145.0,122.3,Drip,1.73,1.86
+AGV-0237,Uttar Pradesh,Lucknow,Wheat,Rabi,4.16,882.3,18.7,Loamy,7.27,176.6,45.4,199.6,122.0,Tube Well,3.03,3.55
+AGV-0238,Tamil Nadu,Coimbatore,Rice,Kharif,4.01,1135.9,30.1,Red,5.36,,24.7,161.9,151.9,Canal,3.38,3.63
+AGV-0239,Andhra Pradesh,Krishna,Wheat,Rabi,3.53,1079.5,25.1,Black,7.84,197.8,25.9,420.4,95.6,Canal,1.94,1.94
+AGV-0240,Maharashtra,Pune,Bajra,Kharif,0.99,1089.6,27.4,Black,7.54,145.3,34.0,339.8,123.9,Canal,1.37,1.55
+AGV-0241,Uttar Pradesh,Meerut,Rice,Kharif,1.71,987.5,26.4,Loamy,6.54,220.8,22.7,249.5,171.6,Tube Well,4.47,4.78
+AGV-0242,West Bengal,Nadia,Soybean,Kharif,1.78,1831.1,28.1,Loamy,6.38,299.3,42.1,242.9,71.5,Rainfed,1.26,1.27
+AGV-0243,Haryana,Hisar,Bajra,Summer,2.19,381.3,33.0,Sandy,6.46,115.7,14.9,81.9,92.0,Rainfed,1.36,1.53
+AGV-0244,Andhra Pradesh,Krishna,Soybean,Kharif,2.13,1041.7,28.7,Red,6.76,135.9,20.0,140.4,56.4,Canal,1.43,1.5
+AGV-0245,Haryana,Rohtak,Maize,Kharif,4.89,536.8,27.3,Alluvial,7.26,155.4,22.8,281.9,102.3,Canal,4.09,3.8
+AGV-0246,Uttar Pradesh,Meerut,Wheat,Rabi,0.64,943.8,18.7,Clay,7.39,336.9,39.2,277.1,126.7,Rainfed,4.1,3.08
+AGV-0247,Gujarat,Rajkot,Chickpea,Rabi,4.84,801.5,20.7,Alluvial,6.67,191.1,36.5,181.4,37.9,Rainfed,1.5,1.54
+AGV-0248,Tamil Nadu,Madurai,Groundnut,Kharif,6.34,851.6,30.2,Red,6.1,173.7,21.5,141.3,55.5,Canal,1.9,2.09
+AGV-0249,Uttar Pradesh,Lucknow,Cotton,Kharif,10.32,883.1,28.6,Alluvial,8.28,205.6,32.6,173.8,95.0,Tube Well,1.76,1.77
+AGV-0250,West Bengal,Hooghly,Wheat,RABI,2.6,1527.1,18.5,Alluvial,7.4,193.0,44.3,179.6,107.6,Rainfed,2.43,2.68
+AGV-0251,Punjab,Amritsar,Soybean,kharif,7.65,596.6,23.3,Loamy,6.6,275.2,38.8,236.3,49.0,Tube Well,1.99,2.04
+AGV-0252,Tamil Nadu,Coimbatore,Maize,Kharif,4.05,991.8,30.6,Red,5.48,135.9,22.4,138.0,79.5,Canal,2.4,2.3
+AGV-0253,West Bengal,Bardhaman,Rice,Summer,2.62,1762.0,31.3,Alluvial,6.79,290.7,29.1,219.5,77.0,Canal,2.45,2.42
+AGV-0254,Gujarat,Rajkot,Chickpea,Rabi,3.72,836.0,23.5,Sandy,5.32,111.9,16.6,107.8,45.1,Sprinkler,0.87,0.91
+AGV-0255,Haryana,Hisar,Cotton,Kharif,2.31,469.7,28.8,Loamy,6.66,285.2,49.0,207.3,103.3,Tube Well,2.55,2.23
+AGV-0256,Madhya Pradesh,Bhopal,Soybean,Kharif,2.62,1178.6,26.8,Red,6.54,168.3,23.1,136.2,45.4,Sprinkler,1.41,1.26
+AGV-0257,Tamil Nadu,Madurai,Rice,Kharif,3.23,1311.8,30.3,Red,5.54,178.0,16.6,106.8,108.1,Tube Well,2.84,2.78
+AGV-0258,West Bengal,Bardhaman,Bajra,KHARIF,4.71,1234.5,30.5,Loamy,6.03,197.2,40.0,292.9,65.9,Rainfed,1.11,1.27
+AGV-0259,Andhra Pradesh,Kurnool,Wheat,Rabi,8.06,871.3,22.5,Red,5.31,168.8,17.7,185.5,143.3,Canal,2.66,2.46
+AGV-0260,Andhra Pradesh,Kurnool,Maize,Kharif,1.8,841.5,25.5,Red,5.42,179.1,13.4,106.5,239.6,Tube Well,4.41,4.17
+AGV-0261,Punjab,Ludhiana,Wheat,Rabi,1.04,556.4,17.4,Alluvial,6.53,168.0,44.9,308.4,112.7,Tube Well,3.86,3.26
+AGV-0262,Uttar Pradesh,Meerut,Rice,Kharif,0.95,879.9,25.8,Alluvial,7.3,220.5,40.0,222.5,78.3,Rainfed,,3.23
+AGV-0263,Madhya Pradesh,Jabalpur,Bajra,Summer,5.26,1190.1,32.7,Loamy,6.83,313.3,37.1,197.6,46.7,Rainfed,1.22,1.37
+AGV-0264,West Bengal,Nadia,Groundnut,Rabi,1.81,1912.4,20.9,Alluvial,6.82,221.0,19.4,163.2,60.4,Rainfed,1.38,1.08
+AGV-0265,Haryana,Karnal,Bajra,Summer,11.7,592.6,28.9,Alluvial,6.72,182.6,21.6,198.5,64.4,Tube Well,1.93,1.75
+AGV-0266,Gujarat,Surat,Maize,Kharif,7.81,880.8,28.5,Black,7.18,173.0,20.5,223.6,159.8,Canal,4.03,3.58
+AGV-0267,Uttar Pradesh,Meerut,Chickpea,Rabi,17.99,1031.9,20.1,Alluvial,6.71,175.6,34.1,227.3,43.4,Canal,1.07,1.27
+AGV-0268,Karnataka,Belagavi,Wheat,Rabi,2.32,1238.4,21.5,Red,6.68,165.0,19.4,189.3,173.8,Rainfed,2.73,2.67
+AGV-0269,West Bengal,Nadia,Wheat,Rabi,4.83,1329.8,22.0,Alluvial,6.92,227.9,23.6,173.2,155.0,Tube Well,2.74,2.51
+AGV-0270,Madhya Pradesh,Bhopal,Groundnut,Kharif,2.6,1182.4,28.0,Loamy,6.15,201.8,34.7,203.2,38.0,Tube Well,1.87,1.67
+AGV-0271,Punjab,Ludhiana,Wheat,Rabi,1.81,747.5,20.1,Alluvial,7.26,216.1,34.0,235.0,106.9,Sprinkler,4.14,3.98
+AGV-0272,Maharashtra,Nagpur,Bajra,Kharif,2.19,976.4,27.8,Black,8.44,160.7,19.5,166.1,51.9,Canal,1.4,1.16
+AGV-0273,Andhra Pradesh,Kurnool,Chickpea,Rabi,1.16,903.8,19.4,Black,7.6,229.1,42.4,283.5,31.8,Canal,0.95,1.25
+AGV-0274,Tamil Nadu,Coimbatore,Cotton,Kharif,9.71,948.2,27.8,Alluvial,7.83,206.5,38.8,117.1,161.3,Canal,2.12,1.98
+AGV-0275,Karnataka,Belagavi,Rice,Kharif,3.99,1374.8,29.0,Black,7.48,175.3,20.4,324.2,88.9,Sprinkler,3.46,3.75
+AGV-0276,Gujarat,Rajkot,Wheat,Rabi,1.34,735.5,22.5,Alluvial,6.97,182.0,27.5,250.5,138.1,Tube Well,3.61,3.79
+AGV-0277,Gujarat,Surat,Bajra,Kharif,4.05,728.2,29.1,Sandy,,127.3,10.4,101.6,92.8,Rainfed,1.54,1.56
+AGV-0278,Gujarat,Surat,Wheat,Rabi,1.32,774.1,20.0,Black,8.04,157.0,22.7,297.6,92.4,Canal,3.45,3.2
+AGV-0279,Karnataka,Dharwad,GROUNDNUT,Rabi,7.86,930.5,18.9,Loamy,6.57,258.4,39.2,,35.6,Tube Well,1.22,1.48
+AGV-0280,Madhya Pradesh,Indore,Cotton,Kharif,1.53,883.6,31.2,Black,8.25,231.9,27.7,229.1,161.4,Rainfed,1.69,2.14
+AGV-0281,Andhra Pradesh,Kurnool,Cotton,Kharif,3.08,1285.9,31.1,Red,5.78,160.3,25.0,175.2,99.2,Tube Well,1.28,1.23
+AGV-0282,Madhya Pradesh,Jabalpur,Wheat,Rabi,1.73,1091.3,23.6,Loamy,6.63,321.4,41.2,404.0,90.9,Rainfed,3.19,3.14
+AGV-0283,Maharashtra,Nashik,Groundnut,Summer,5.01,876.8,34.1,Black,8.35,222.8,25.3,293.0,43.9,Rainfed,1.34,1.51
+AGV-0284,Maharashtra,Nashik,Groundnut,Rabi,1.59,1045.0,20.1,Clay,7.86,200.1,25.1,264.3,25.9,Tube Well,0.9,1.24
+AGV-0285,Madhya Pradesh,Indore,Groundnut,Kharif,2.59,911.7,29.3,Loamy,6.5,220.2,29.5,224.9,63.7,Rainfed,2.04,2.09
+AGV-0286,Gujarat,Anand, Rice ,Kharif,2.16,820.9,28.4,Alluvial,6.57,283.5,17.0,222.9,104.4,Canal,3.75,4.79
+AGV-0287,Haryana,Rohtak,Wheat,Rabi,2.58,456.3,21.4,Sandy,6.53,141.0,15.0,96.4,215.0,Drip,4.31,3.59
+AGV-0288,Karnataka,Dharwad,Cotton,Kharif,2.93,1308.0,28.0,Loamy,5.73,254.5,36.3,211.8,118.4,Drip,1.65,1.52
+AGV-0289,Karnataka,Belagavi,Wheat,Rabi,0.73,1003.6,20.7,Black,7.38,184.7,31.2,307.7,,Sprinkler,2.62,3.61
+AGV-0290,Maharashtra,Pune,Groundnut,Kharif,1.92,763.5,28.0,Black,7.69,138.6,31.8,275.5,,Canal,1.77,2.06
+AGV-0291,Tamil Nadu,Madurai,Chickpea,Rabi,14.33,954.4,19.8,Alluvial,6.54,192.2,39.5,,35.0,Drip,1.19,1.17
+AGV-0292,Maharashtra,Nagpur,Rice,Summer,6.04,973.8,31.8,Black,8.13,151.2,20.7,223.1,204.2,Rainfed,,2.38
+AGV-0293,West Bengal,Hooghly,Soybean,Kharif,10.76,1689.4,27.0,Loamy,7.13,224.1,33.5,,30.7,sprinkler,1.42,1.22
+AGV-0294,Punjab,Amritsar,Maize,Summer,2.81,538.0,28.5,Loamy,6.23,237.9,32.0,183.1,222.7,Canal,4.22,5.07
+AGV-0295,West Bengal,Hooghly,Cotton,Kharif,8.89,1745.4,26.9,Alluvial,6.93,188.2,43.6,202.2,122.8,Tube Well,1.61,1.61
+AGV-0296,Andhra Pradesh,Krishna,Soybean,Kharif,13.8,845.6,28.7,Black,7.13,198.1,15.9,311.2,56.0,Rainfed,1.62,1.85
+AGV-0297,Tamil Nadu,Madurai,Chickpea,Rabi,3.02,940.1,20.5,Red,5.95,131.8,22.2,140.5,60.9,Rainfed,1.18,1.14
+AGV-0298,Maharashtra,Pune,Soybean,Kharif,6.6,782.3,27.1,Clay,7.3,224.9,27.6,298.2,41.6,Drip,1.81,1.91
+AGV-0299,Madhya Pradesh,Bhopal,Rice,Summer,4.1,5272.847727392966,33.3,Black,7.49,219.3,25.6,252.5,150.6,Rainfed,3.0,3.08
+AGV-0300,Punjab,Amritsar,Bajra,Summer,3.89,501.5,30.6,Alluvial,6.86,302.0,25.5,164.0,44.9,Tube Well,1.82,1.72
+AGV-0301,Maharashtra,Nagpur,Chickpea,Rabi,4.87,850.5,22.2,Black,7.48,266.8,28.9,228.9,30.4,Rainfed,1.43,1.42
+AGV-0302,Karnataka,Belagavi,Cotton,Kharif,6.89,1178.1,27.1,Red,5.12,132.3,21.7,136.2,112.5,Rainfed,1.43,1.32
+AGV-0303,Andhra Pradesh,Guntur,Soybean,Kharif,5.21,1229.9,26.8,Black,7.8,213.6,19.1,297.4,35.9,Canal,1.38,1.46
+AGV-0304,Uttar Pradesh,Varanasi,Maize,Rabi,4.0,914.1,22.4,Alluvial,7.06,189.8,41.0,165.9,113.9,Canal,4.99,4.74
+AGV-0305,Haryana,Hisar,Cotton,Kharif,0.3,442.9,27.5,Alluvial,6.67,233.0,30.2,210.0,114.0,Tube Well,2.41,2.25
+AGV-0306,Madhya Pradesh,Jabalpur,Bajra,Kharif,5.51,1069.8,28.7,Loamy,7.27,256.2,28.8,129.0,52.0,Rainfed,1.65,1.44
+AGV-0307,Haryana,Hisar,Maize,Kharif,5.5,550.3,23.9,Sandy,6.29,151.5,23.5,115.4,128.2,Rainfed,3.07,3.48
+AGV-0308,Punjab,Ludhiana,Cotton,Kharif,2.12,669.4,26.8,Loamy,6.75,248.3,27.6,272.2,78.1,Tube Well,2.96,2.3
+AGV-0309,Haryana,Karnal,Maize,Summer,13.07,592.0,34.6,Alluvial,7.27,180.3,31.7,192.6,180.5,Canal,3.05,3.39
+AGV-0310,Uttar Pradesh,Lucknow,Rice,Kharif,1.85,866.2,25.7,Loamy,6.94,193.4,16.4,170.4,104.2,Rainfed,3.15,3.92
+AGV-0311,Maharashtra,Nagpur,Chickpea,Rabi,3.37,907.7,21.3,Clay,7.09,177.2,35.9,261.4,35.0,Tube Well,1.02,1.14
+AGV-0312,Madhya Pradesh,Indore,Rice,Kharif,1.6,1032.1,27.0,Black,8.8,234.6,33.3,328.3,209.2,Sprinkler,3.71,3.12
+AGV-0313,West Bengal,Bardhaman,Maize,Kharif,1.78,1566.1,26.6,Loamy,6.31,320.9,36.9,185.4,116.2,Tube Well,2.59,2.87
+AGV-0314,Punjab,Amritsar,Soybean,Kharif,3.02,587.3,24.9,Alluvial,6.95,234.8,38.3,186.5,69.1,Tube Well,1.85,2.12
+AGV-0315,Gujarat,Rajkot, Soybean ,Kharif,1.88,773.3,27.8,Sandy,6.75,140.4,13.9,137.3,38.4,Sprinkler,1.8,1.86
+AGV-0316,West Bengal,Bardhaman,Groundnut,Kharif,2.31,1414.2,27.5,Alluvial,7.11,269.6,29.5,,49.6,Canal,1.44,1.48
+AGV-0317,Maharashtra,Nashik,Wheat,Rabi,2.58,1096.2,22.2,Black,7.78,190.5,23.3,274.2,127.0,Canal,,2.57
+AGV-0318,Karnataka,Mysuru,Rice,Kharif,1.94,1095.9,25.4,Red,6.7,143.4,20.9,166.1,89.2,Tube Well,5.37,3.76
+AGV-0319,Andhra Pradesh,Kurnool,Rice,Kharif,2.48,1132.3,26.8,Red,6.62,165.9,10.3,130.8,146.0,Rainfed,3.32,3.95
+AGV-0320,Andhra Pradesh,Kurnool,Wheat,Rabi,4.77,900.3,22.5,Black,7.83,151.1,17.3,280.7,235.5,Sprinkler,2.01,2.58
+AGV-0321,Punjab,Amritsar,Maize,Summer,2.07,629.7,29.3,Alluvial,6.81,221.0,36.6,189.5,187.5,Tube Well,5.65,3.88
+AGV-0322,Maharashtra,Pune,Soybean,Kharif,1.0,806.2,27.9,Red,5.98,104.7,32.0,135.9,59.5,Rainfed,1.47,1.54
+AGV-0323,Andhra Pradesh,Kurnool,Chickpea,Rabi,0.82,968.1,23.9,Black,,157.8,14.7,225.3,31.4,Rainfed,0.93,1.14
+AGV-0324,Tamil Nadu,Coimbatore,Maize,Kharif,3.06,772.6,27.3,Red,5.88,187.1,25.1,158.8,112.2,Sprinkler,3.95,3.94
+AGV-0325,Andhra Pradesh,Kurnool,Bajra,Kharif,1.5,922.9,28.2,Red,5.8,120.0,23.2,160.0,69.9,Canal,1.07,1.21
+AGV-0326,Uttar Pradesh,Lucknow,Bajra,Kharif,1.25,820.1,25.7,Clay,6.73,193.9,35.4,269.4,70.2,Tube Well,1.41,1.3
+AGV-0327,Andhra Pradesh,Guntur,Rice,Kharif,1.51,1200.5,28.7,Black,8.33,221.2,16.6,224.6,93.4,Tube Well,3.76,3.45
+AGV-0328,Andhra Pradesh,Kurnool,Cotton,Kharif,2.78,1000.1,29.3,Alluvial,7.95,275.0,38.9,156.7,94.3,Rainfed,2.16,1.89
+AGV-0329,Maharashtra,Nagpur,Cotton,Kharif,0.97,988.9,28.4,Clay,7.64,197.6,34.4,249.2,74.1,Drip,2.01,1.9
+AGV-0330,Tamil Nadu,Coimbatore,Rice,Kharif,1.4,1143.4,29.8,Red,5.73,141.9,21.3,,148.0,Tube Well,3.46,3.83
+AGV-0331,Uttar Pradesh,Varanasi,Rice,Kharif,7.37,989.3,27.5,Loamy,7.18,294.1,29.3,206.8,69.5,Tube Well,4.09,4.88
+AGV-0332,Andhra Pradesh,Krishna,Wheat,Rabi,3.94,1030.1,21.3,Black,7.51,204.6,21.7,224.3,117.7,Drip,2.29,2.71
+AGV-0333,Haryana,Rohtak,Maize,Kharif,0.95,541.5,28.2,Sandy,6.18,144.5,16.8,78.1,247.6,Tube Well,3.97,3.92
+AGV-0334,Tamil Nadu,Coimbatore,Cotton,Kharif,1.47,868.1,28.0,Alluvial,7.19,267.1,29.4,222.1,111.7,Tube Well,2.08,2.11
+AGV-0335,Madhya Pradesh,Bhopal,Cotton,Kharif,3.97,1267.0,26.8,Black,7.94,1026.5293675475443,17.5,211.1,181.8,Drip,1.42,1.55
+AGV-0336,Madhya Pradesh,Bhopal,Bajra,Kharif,0.66,1147.5,26.4,Black,7.61,124.7,23.3,270.6,76.8,Rainfed,1.42,1.42
+AGV-0337,Maharashtra,Pune,Rice ,Kharif,0.55,736.5,25.5,Red,5.39,160.2,16.3,150.9,69.8,Tube Well,3.58,3.6
+AGV-0338,West Bengal,Nadia,Soybean,Kharif,3.08,1638.4,26.9,Alluvial,7.01,219.3,29.9,175.8,51.1,Canal,1.37,1.12
+AGV-0339,Maharashtra,Pune,Bajra,Kharif,8.08,899.0,27.0,Clay,7.75,192.7,27.7,351.9,55.2,tubewell,1.36,1.29
+AGV-0340,Tamil Nadu,Thanjavur, Wheat ,Rabi,15.22,1062.8,21.7,Red,6.22,202.4,15.7,120.9,84.5,Canal,2.51,2.43
+AGV-0341,Uttar Pradesh,Meerut,Maize,Kharif,3.09,1206.2,26.1,Alluvial,6.54,187.8,47.8,234.0,134.4,Canal,3.99,3.3
+AGV-0342,Punjab,Patiala,Groundnut,Kharif,5.06,709.4,27.2,Alluvial,7.74,244.5,39.1,182.6,36.4,Tube Well,1.76,2.15
+AGV-0343,Punjab,Amritsar,Soybean,Kharif,1.95,670.8,26.4,Alluvial,7.04,185.9,32.1,190.5,33.2,Tube Well,1.98,1.83
+AGV-0344,Maharashtra,Nagpur,Soybean,Kharif,1.06,938.8,29.6,Clay,6.44,214.3,41.6,206.1,50.0,Sprinkler,1.62,1.9
+AGV-0345,Andhra Pradesh,Kurnool,Groundnut,Rabi,1.45,1058.1,21.1,Red,4.95,158.5,13.8,193.4,47.5,Tube Well,0.98,1.17
+AGV-0346,Tamil Nadu,Madurai,Wheat,Rabi,1.76,896.6,20.6,Alluvial,7.93,212.7,54.3,251.1,77.1,Tube Well,3.05,2.9
+AGV-0347,Punjab,Patiala,Soybean,Kharif,4.73,762.9,26.0,Alluvial,7.05,182.3,32.9,210.5,55.2,,2.24,2.26
+AGV-0348,West Bengal,Hooghly,Soybean,Kharif,2.19,1506.8,26.6,Alluvial,,163.4,30.2,141.6,,Canal,1.31,1.11
+AGV-0349,Madhya Pradesh,Bhopal,Soybean,Kharif,4.11,1096.1,29.8,Black,8.2,222.9,30.2,188.5,976.4359545286486,Sprinkler,1.47,1.53
+AGV-0350,Karnataka,Belagavi,Groundnut,Rabi,1.66,992.7,19.7,Loamy,7.72,214.4,33.9,176.0,49.8,Rainfed,1.77,1.56
+AGV-0351,Maharashtra,Nashik,Maize,Rabi,9.79,1451.8,22.6,Black,7.95,170.8,23.4,372.4,233.8,Drip,2.38,3.01
+AGV-0352,Andhra Pradesh,Guntur,Groundnut,Kharif,5.43,1105.2,29.7,Black,8.04,167.5,23.4,207.1,24.7,Canal,1.48,1.24
+AGV-0353,Maharashtra,Nashik,Wheat,Rabi,6.2,998.7,20.3,Red,5.7,228.3,13.7,151.1,96.5,Drip,2.66,2.6
+AGV-0354,Karnataka,Mysuru,Wheat,Rabi,4.92,926.1,21.0,Red,6.99,163.0,28.8,120.7,128.4,Canal,2.64,3.03
+AGV-0355,Tamil Nadu,Coimbatore,Groundnut,Rabi,2.6,944.1,21.5,Red,6.51,181.9,15.6,113.9,52.2,Drip,1.79,1.56
+AGV-0356,Punjab,Patiala,Groundnut,Summer,4.57,589.9,29.0,Alluvial,6.62,220.9,48.1,284.7,35.2,Tube Well,2.43,2.43
+AGV-0357,Gujarat,Rajkot,Soybean,Kharif,0.6,887.1,30.3,Sandy,6.64,159.4,16.8,114.5,51.9,Canal,1.28,1.38
+AGV-0358,Madhya Pradesh,Indore,Chickpea,Rabi,2.13,999.1,22.5,Black,7.43,199.8,29.8,190.1,39.3,Drip,1.07,1.13
+AGV-0359,Tamil Nadu,Coimbatore,Maize,Kharif,1.82,869.6,31.7,Alluvial,7.0,303.2,38.6,202.0,137.3,Canal,4.04,3.62
+AGV-0360,Maharashtra,Nashik,Soybean,Kharif,1.1,1108.5,29.8,Black,7.5,177.3,26.4,380.0,70.5,Sprinkler,1.28,1.41
+AGV-0361,Tamil Nadu,Madurai,Rice,Kharif,2.34,854.9,29.4,Red,6.18,173.1,26.8,98.4,171.4,Drip,3.38,4.28
+AGV-0362,Gujarat,Rajkot,Groundnut,Rabi,0.81,707.9,22.8,Black,8.15,252.1,21.0,337.1,67.7,Canal,2.14,2.0
+AGV-0363,Andhra Pradesh,Guntur,Wheat,Rabi,0.9,986.9,23.1,Red,5.62,141.5,20.5,171.2,258.2,Tube Well,2.16,2.56
+AGV-0364,Tamil Nadu,Madurai,Wheat,Rabi,1.7,981.7,22.7,Red,5.9,125.9,24.0,138.5,184.2,Rainfed,2.9,2.52
+AGV-0365,Karnataka,Belagavi,Soybean,Kharif,4.69,1061.3,26.4,Black,8.06,143.2,33.0,317.2,65.5,Rainfed,1.55,1.75
+AGV-0366,Tamil Nadu,Coimbatore,Soybean,Kharif,1.28,971.3,30.4,Alluvial,6.87,201.9,36.0,175.9,54.2,Sprinkler,1.72,1.46
+AGV-0367,Gujarat,Anand,Rice,Kharif,2.45,1001.5,30.2,Sandy,6.86,183.3,13.4,90.3,96.6,Tube Well,3.14,2.61
+AGV-0368,Maharashtra,Nashik,Cotton,Kharif,1.41,1073.2,26.8,Black,7.58,134.0,18.3,241.4,112.5,Drip,1.49,1.67
+AGV-0369,Haryana,Rohtak,Maize,Rabi,5.74,592.0,17.2,Alluvial,6.72,204.4,28.9,192.9,214.7,Tube Well,4.04,3.38
+AGV-0370,Madhya Pradesh,Jabalpur,Wheat,Rabi,3.43,1088.4,21.3,Black,7.7,198.7,20.1,316.3,128.3,Rainfed,2.55,3.06
+AGV-0371,Karnataka,Dharwad,Cotton,Kharif,3.93,1064.0,28.4,Black,7.26,197.7,36.4,394.5,147.9,Tube Well,2.1,1.75
+AGV-0372,Madhya Pradesh,Indore,Rice,Kharif,1.04,993.1,28.7,Loamy,6.54,188.5,54.0,345.5,,Rainfed,4.3,3.76
+AGV-0373,West Bengal,Bardhaman,Rice,Rabi,1.52,1365.4,18.7,Clay,7.48,257.1,27.4,260.3,104.1,Tube Well,2.87,3.0
+AGV-0374,Uttar Pradesh,Varanasi,Groundnut,Kharif,4.11,886.0,28.7,Alluvial,6.92,184.0,32.5,196.6,59.6,Tube Well,2.11,2.11
+AGV-0375,Haryana,Rohtak,Bajra,Summer,3.6,594.7,31.4,Alluvial,7.17,216.5,23.3,,61.9,Rainfed,2.23,2.07
+AGV-0376,Andhra Pradesh,Krishna,Wheat,Rabi,0.78,986.3,21.8,Alluvial,7.01,239.5,60.3,197.3,158.6,Canal,3.82,3.11
+AGV-0377,Maharashtra,Nashik,Bajra,Summer,4.29,1238.7,29.0,Black,8.48,121.4,30.3,279.5,29.6,Sprinkler,1.16,1.22
+AGV-0378,Tamil Nadu,Madurai,Soybean,Kharif,0.96,1081.4,26.0,Red,5.22,137.4,13.4,141.2,56.3,Rainfed,1.7,1.69
+AGV-0379,Maharashtra,Pune,Soybean,Kharif,3.87,824.4,28.6,Red,6.01,152.6,21.5,171.1,48.6,Tube Well,1.49,1.59
+AGV-0380,Madhya Pradesh,Jabalpur,Soybean,Kharif,13.67,990.7,27.2,Loamy,6.06,257.1,38.1,248.9,42.6,Tube Well,1.57,1.7
+AGV-0381,Gujarat,Anand,Bajra,Kharif,3.66,758.7,31.7,Black,7.64,190.5,34.4,,116.1,Drip,1.48,1.55
+AGV-0382,West Bengal,Nadia,Bajra,Kharif,0.3,1274.9,28.3,Alluvial,7.46,237.7,33.4,162.0,77.8,Tube Well,1.92,1.42
+AGV-0383,Haryana,Karnal,Bajra,Kharif,0.76,706.7,26.7,Alluvial,7.36,220.7,70.9,195.8,63.6,Tube Well,2.0,1.64
+AGV-0384,Gujarat,Anand,Groundnut,Kharif,7.42,811.5,26.2,Black,8.0,225.3,15.4,351.3,56.6,Tube Well,2.1,2.04
+AGV-0385,Gujarat,Anand,Wheat,Rabi,1.52,831.8,22.6,Black,7.95,244.5,32.0,235.2,139.6,Canal,3.21,3.03
+AGV-0386,Haryana,Rohtak,Rice,Kharif,4.79,485.6,26.7,Alluvial,6.78,,31.2,195.8,172.2,Tube Well,4.16,3.59
+AGV-0387,Karnataka,Belagavi,Rice,Kharif,4.61,1117.6,27.1,Red,5.21,129.3,17.6,138.4,204.0,Tube Well,3.53,3.57
+AGV-0388,Madhya Pradesh,Jabalpur,Groundnut,Summer,0.98,914.7,32.6,Black,8.8,207.5,19.8,304.0,39.1,Rainfed,1.75,1.61
+AGV-0389,Maharashtra,Nashik,Rice,Kharif,3.73,871.6,30.8,Black,8.01,221.7,29.9,326.7,106.0,Canal,3.43,3.17
+AGV-0390,Gujarat,Anand,Rice,Kharif,3.54,673.4,29.8,Black,8.23,315.3,21.8,251.4,,Drip,2.83,3.21
+AGV-0391,Gujarat,Anand,Cotton,Kharif,6.48,711.9,28.1,Black,7.67,199.6,27.1,373.4,137.0,Tube Well,2.52,2.66
+AGV-0392,Karnataka,Dharwad,Maize,Kharif,7.87,919.9,27.1,red,6.25,159.4,26.6,182.1,200.6,Rainfed,4.5,3.85
+AGV-0393,Haryana,Hisar,Rice,Kharif,2.01,585.4,26.8,Loamy,7.9,247.8,36.2,162.6,167.4,Tube Well,4.08,3.26
+AGV-0394,Gujarat,Anand,Chickpea,Rabi,11.74,928.1,24.3,Black,7.97,285.4,30.0,267.2,51.3,Rainfed,1.46,1.5
+AGV-0395,Gujarat,Anand,Bajra,Kharif,3.13,892.2,29.1,Black,7.65,194.2,24.8,394.8,55.8,Sprinkler,1.59,1.34
+AGV-0396,Madhya Pradesh,Indore,Bajra,Kharif,11.76,1027.3,28.5,Black,7.83,205.0,26.9,264.0,55.8,Canal,1.1,1.64
+AGV-0397,Punjab,Ludhiana,Wheat,Rabi,1.22,687.8,19.8,Sandy,6.19,124.4,15.9,80.1,91.8,Canal,3.17,3.29
+AGV-0398,Tamil Nadu,Thanjavur,Cotton,kharif,5.23,1216.4,26.3,Clay,7.58,179.0,36.4,455.9,55.6,Sprinkler,1.46,1.18
+AGV-0399,Maharashtra,Pune,Soybean,Kharif,1.58,937.7,27.4,Black,,266.5,23.6,410.1,72.1,rainfed,2.01,1.97
+AGV-0400,Karnataka,Belagavi,Chickpea,Rabi,9.95,1404.4,20.5,Red,5.72,144.5,17.4,105.8,31.9,Canal,0.92,0.82
+AGV-0401,Haryana,Karnal,Rice,Kharif,3.59,629.2,23.3,Sandy,6.92,135.8,14.8,90.7,77.2,Canal,,2.9
+AGV-0402,Tamil Nadu,Madurai,Cotton,Kharif,5.27,659.9,29.8,Red,5.45,123.9,19.1,152.0,67.2,Rainfed,1.56,1.67
+AGV-0403,Haryana,Rohtak,Chickpea,Rabi,3.22,496.3,19.4,Alluvial,6.23,214.3,37.3,145.4,46.5,Tube Well,1.8,1.52
+AGV-0404,Karnataka,Dharwad,Chickpea,Rabi,2.86,981.5,19.5,Red,5.76,176.5,16.3,162.9,75.9,Sprinkler,0.87,0.92
+AGV-0405,Uttar Pradesh,Lucknow,Bajra,Kharif,1.95,946.4,26.4,Alluvial,6.82,177.4,52.6,186.4,72.8,Canal,1.34,1.26
+AGV-0406,Andhra Pradesh,Guntur,Wheat,Rabi,1.39,1002.4,22.7,Red,6.64,170.5,23.5,161.7,92.0,Tube Well,2.07,2.24
+AGV-0407,Punjab,Ludhiana,Cotton,Kharif,1.27,605.2,29.1,Alluvial,6.35,190.1,18.4,204.3,79.1,Tube Well,2.36,1.88
+AGV-0408,Punjab,Patiala,Soybean,Kharif,2.9,680.6,25.2,Loamy,7.01,288.2,46.1,177.4,67.5,Canal,1.91,2.03
+AGV-0409,Maharashtra,Nagpur,Maize,Summer,4.26,1334.4,34.0,Clay,,199.9,26.5,247.1,113.4,Rainfed,2.0,2.7
+AGV-0410,Gujarat,Rajkot,Groundnut,Kharif,2.53,903.1,28.6,Black,7.67,154.0,29.2,308.9,66.2,Drip,1.92,1.85
+AGV-0411,Andhra Pradesh,Krishna,Rice,Kharif,6.43,778.0,28.8,Black,8.45,270.4,26.2,414.5,118.5,Rainfed,2.63,2.7
+AGV-0412,Gujarat,Anand,Wheat,Rabi,2.26,782.3,20.8,Black,7.27,192.8,37.3,425.6,,Sprinkler,3.93,3.15
+AGV-0413,Haryana,Rohtak,Rice,Kharif,2.33,540.6,27.5,Sandy,5.3,128.4,26.9,143.4,68.9,Tube Well,3.33,2.39
+AGV-0414,Punjab,Ludhiana,Maize,Kharif,0.94,492.7,24.4,Sandy,6.52,151.4,9.8,101.9,189.5,Tube Well,3.97,4.01
+AGV-0415,Gujarat,Rajkot,Maize,Rabi,9.88,785.2,21.3,Alluvial,6.94,256.3,36.8,163.6,145.9,Tube Well,4.33,3.94
+AGV-0416,Gujarat,Rajkot,Cotton,Kharif,2.38,912.0,28.1,Black,7.52,248.8,30.8,291.9,138.2,Sprinkler,2.04,2.22
+AGV-0417,Karnataka,Dharwad,Maize,Summer,3.02,1114.7,31.5,Black,7.67,198.9,30.0,245.2,134.8,Rainfed,3.04,3.32
+AGV-0418,Punjab,Patiala,Cotton,Kharif,8.19,625.7,25.2,Alluvial,7.51,218.7,28.3,242.8,175.2,Tube Well,2.1,2.07
+AGV-0419,Gujarat,Rajkot,Wheat,Rabi,1.91,752.9,22.3,Black,8.22,162.3,24.1,224.1,96.8,Rainfed,3.14,3.42
+AGV-0420,Andhra Pradesh,Guntur,Rice,Kharif,2.73,982.3,28.7,Red,6.07,111.1,22.9,260.3,115.7,Sprinkler,4.83,4.17
+AGV-0421,Madhya Pradesh,Bhopal,Cotton,Kharif,1.94,1048.3,28.4,Red,5.32,199.8,15.7,142.1,85.0,Rainfed,1.68,1.89
+AGV-0422,Andhra Pradesh,Krishna,Soybean,Kharif,16.06,1123.8,28.2,Black,8.51,175.8,22.6,225.6,67.3,Tube Well,,1.15
+AGV-0423,Madhya Pradesh,Jabalpur,Cotton,Kharif,6.55,1067.8,28.8,Black,8.59,284.0,23.6,251.7,83.5,Canal,1.58,1.45
+AGV-0424,Punjab,Amritsar,Wheat,Rabi,0.82,539.9,20.5,Sandy,6.61,168.4,16.7,104.7,76.1,Canal,3.55,2.87
+AGV-0425,Uttar Pradesh,Meerut,Wheat,Rabi,3.02,984.8,19.3,Loamy,6.36,297.2,39.3,200.4,157.6,Canal,3.02,3.48
+AGV-0426,Andhra Pradesh,Kurnool,Groundnut,Kharif,1.97,1088.9,30.7,Red,5.52,194.2,31.7,132.9,45.5,Rainfed,2.12,1.64
+AGV-0427,Madhya Pradesh,Indore,Soybean,Kharif,2.87,913.5,28.2,Black,7.5,205.2,15.4,321.1,55.1,Canal,1.55,1.68
+AGV-0428,Punjab,Patiala,Cotton,Kharif,13.87,591.5,25.2,Sandy,6.69,128.4,11.3,118.8,109.7,Canal,2.03,1.7
+AGV-0429,Karnataka,Dharwad,Rice,Kharif,1.79,1020.6,25.4,Black,7.72,232.5,21.5,266.4,85.5,Tube Well,3.75,4.35
+AGV-0430,Punjab,Patiala,Chickpea,Rabi,2.88,696.5,21.8,Loamy,6.76,238.5,42.3,123.0,42.5,Tube Well,1.72,1.73
+AGV-0431,Andhra Pradesh,Krishna,Groundnut,Kharif,7.19,896.4,29.3,Red,5.81,211.1,21.8,145.9,59.0,Canal,2.3,2.05
+AGV-0432,Maharashtra,Pune, Rice ,Rabi,2.32,993.3,23.4,Black,7.8,184.3,34.6,328.6,131.9,Tube Well,3.56,3.68
+AGV-0433,Tamil Nadu,Thanjavur,Maize,Summer,3.37,1225.8,34.5,Alluvial,6.88,252.1,32.6,148.4,171.3,Tube Well,3.0,3.13
+AGV-0434,Punjab,Amritsar,Groundnut,Kharif,2.28,512.3,25.9,Sandy,5.55,117.9,15.0,105.4,36.9,Canal,2.11,2.26
+AGV-0435,Uttar Pradesh,Meerut,Cotton,Kharif,6.01,1031.8,26.9,Loamy,6.31,238.1,37.1,141.5,108.7,Rainfed,2.77,2.16
+AGV-0436,West Bengal,Hooghly,Wheat,Rabi,4.18,1793.6,20.2,Alluvial,7.05,195.8,35.3,166.8,105.8,Tube Well,2.05,2.6
+AGV-0437,Karnataka,Mysuru,Groundnut,Kharif,4.05,1172.1,28.6,Loamy,7.28,267.8,37.9,261.6,59.3,Rainfed,1.39,2.12
+AGV-0438,Karnataka,Belagavi,Soybean,Kharif,5.17,1422.5,25.7,Black,7.29,191.7,22.2,205.0,60.8,Rainfed,1.35,1.57
+AGV-0439,Punjab,Amritsar,Soybean,Kharif,2.48,569.3,24.4,Loamy,6.68,234.6,30.5,212.7,60.4,Tube Well,1.93,1.89
+AGV-0440,Punjab,Amritsar,Groundnut,Summer,9.86,610.7,31.8,Loamy,6.35,224.5,26.4,182.4,65.5,Tube Well,2.07,1.98
+AGV-0441,Andhra Pradesh,Guntur,Rice,Kharif,3.77,784.9,28.3,Black,7.87,215.5,23.2,260.2,154.6,Tube Well,,3.39
+AGV-0442,West Bengal,Bardhaman,Maize,Kharif,5.01,1336.2,27.6,Clay,7.14,175.2,38.4,286.4,127.7,Rainfed,3.4,3.16
+AGV-0443,Punjab,Amritsar,Chickpea,Rabi,2.92,421.4,17.4,Alluvial,6.97,222.5,48.7,213.5,41.0,Tube Well,,1.71
+AGV-0444,Uttar Pradesh,Varanasi,Groundnut,Kharif,2.25,870.9,27.3,Alluvial,7.23,210.3,28.0,166.7,49.8,Tube Well,1.7,1.94
+AGV-0445,Punjab,Patiala,Maize,Rabi,1.6,770.8,19.8,Loamy,6.69,216.7,27.7,186.5,140.8,Rainfed,3.46,3.95
+AGV-0446,Punjab,Patiala,Rice,Kharif,21.2,745.4,28.1,Sandy,6.32,125.1,20.9,76.6,216.5,Tube Well,3.37,2.68
+AGV-0447,Uttar Pradesh,Meerut,Chickpea,Rabi,2.69,819.3,20.2,Alluvial,7.23,177.8,21.2,283.0,33.0,Tube Well,1.36,1.23
+AGV-0448,Maharashtra,Nashik,Chickpea,Rabi,4.26,952.8,18.4,Red,6.27,131.6,29.1,201.5,37.1,Sprinkler,1.06,0.87
+AGV-0449,Maharashtra,Nagpur,Cotton,Kharif,2.03,1115.1,26.8,Black,,157.6,35.9,228.5,110.0,Tube Well,1.75,1.53
+AGV-0450,Andhra Pradesh,Guntur,Rice,Kharif,7.36,880.4,27.3,Red,5.7,167.4,12.4,138.7,189.1,Rainfed,2.76,3.14
+AGV-0451,Haryana,Karnal,Rice,Summer,12.51,542.7,31.9,Alluvial,6.95,207.3,22.7,214.0,147.0,Tube Well,2.77,3.28
+AGV-0452,Gujarat,Anand,Maize,Rabi,2.67,899.8,22.5,Sandy,6.36,146.4,15.9,102.2,172.5,Tube Well,3.92,3.37
+AGV-0453,Karnataka,Dharwad, Wheat ,Rabi,13.42,1225.2,21.8,Loamy,6.63,1459.7714714505933,50.9,195.7,107.5,Drip,3.53,2.79
+AGV-0454,Karnataka,Belagavi,Maize,Kharif,2.93,1043.9,29.1,Red,5.55,157.3,14.7,191.1,198.0,Rainfed,4.28,3.16
+AGV-0455,Andhra Pradesh,Kurnool,Wheat,Rabi,2.27,925.2,23.1,Alluvial,6.83,234.5,26.7,192.5,231.3,Drip,2.67,3.39
+AGV-0456,West Bengal,Hooghly,Wheat,Rabi,2.07,1729.6,20.3,Alluvial,7.49,191.9,38.9,175.7,144.4,Rainfed,2.25,2.59
+AGV-0457,Punjab,Ludhiana,Rice,Kharif,0.62,625.7,25.8,Alluvial,6.55,335.6,41.7,200.7,170.6,Canal,3.8,3.18
+AGV-0458,Haryana,Hisar,Cotton,Kharif,1.59,482.1,26.5,Alluvial,7.16,200.4,45.2,186.1,187.3,Tube Well,2.33,2.51
+AGV-0459,Karnataka,Mysuru,Rice,Kharif,1.34,1201.6,29.3,Loamy,7.65,239.2,26.1,193.1,120.4,Rainfed,5.13,4.45
+AGV-0460,Karnataka,Belagavi,Rice,Kharif,7.58,1159.9,28.2,Black,7.54,205.4,16.7,348.0,116.3,Rainfed,3.6,3.6
+AGV-0461,Maharashtra,Pune,Chickpea,Rabi,2.71,819.7,18.4,Black,7.7,230.8,21.8,267.7,42.0,Drip,1.21,1.11
+AGV-0462,West Bengal,Hooghly,GROUNDNUT,Summer,8.89,1578.2,30.7,Alluvial,7.04,177.1,24.7,141.9,32.7,Rainfed,1.3,1.15
+AGV-0463,Maharashtra,Nashik,Bajra,Kharif,2.48,1301.1,28.9,Red,5.63,181.0,34.1,101.1,46.6,Rainfed,1.0,1.01
+AGV-0464,Uttar Pradesh,Meerut,Maize,Kharif,5.75,910.6,26.0,Alluvial,6.39,211.1,26.5,198.0,91.9,Sprinkler,4.46,4.4
+AGV-0465,Madhya Pradesh,Jabalpur,Cotton,Kharif,14.34,1019.3,26.8,Red,4.99,144.6,21.9,143.9,157.6,Rainfed,2.02,1.8
+AGV-0466,West Bengal,Nadia,Wheat,Rabi,11.91,1401.7,20.9,Alluvial,6.85,246.0,26.7,182.9,64.1,Tube Well,2.68,2.48
+AGV-0467,Uttar Pradesh,Varanasi,Soybean,Kharif,4.7,1080.2,27.8,Clay,7.84,170.2,26.1,320.4,28.6,Tube Well,1.68,1.37
+AGV-0468,West Bengal,Hooghly,Bajra,Kharif,3.93,1400.5,28.6,Alluvial,6.5,251.4,27.1,149.1,51.2,Tube Well,1.25,1.22
+AGV-0469,Haryana,Rohtak,Cotton,Kharif,0.83,535.7,24.3,Alluvial,6.6,193.3,30.4,163.2,136.0,Canal,1.98,1.8
+AGV-0470,Tamil Nadu,Thanjavur,Wheat,Rabi,7.93,1069.5,21.0,Alluvial,7.67,240.2,26.2,193.6,134.9,Tube Well,3.13,2.68
+AGV-0471,Karnataka,Dharwad,Rice,Kharif,4.68,1081.5,27.2,Red,6.66,162.3,18.1,127.7,83.4,Tube Well,4.31,3.47
+AGV-0472,Andhra Pradesh,Guntur,Soybean,Kharif,12.27,942.3,29.2,Red,6.16,182.3,21.4,170.9,58.4,Canal,1.97,1.6
+AGV-0473,Tamil Nadu,Madurai,Wheat,Rabi,6.34,947.3,23.6,Alluvial,6.69,246.2,30.0,260.6,148.3,Drip,2.96,2.46
+AGV-0474,West Bengal,Hooghly,Wheat,Rabi,6.89,1838.8,17.6,Clay,7.47,197.8,22.3,256.7,187.9,tubewell,2.58,2.27
+AGV-0475,Uttar Pradesh,Lucknow,Cotton ,Kharif,1.05,959.7,25.9,Alluvial,6.24,255.5,27.9,203.0,159.6,Sprinkler,1.95,1.98
+AGV-0476,Karnataka,Belagavi,Soybean,Kharif,6.62,1174.3,27.3,Black,7.99,212.8,27.8,313.3,37.2,Canal,1.4,1.52
+AGV-0477,Madhya Pradesh,Indore,Groundnut,Rabi,2.19,814.2,21.9,Red,5.97,119.0,21.8,138.4,52.5,Rainfed,1.66,1.71
+AGV-0478,Madhya Pradesh,Indore,Groundnut,Kharif,5.89,924.4,31.8,Black,7.45,180.9,54.7,304.6,29.7,Sprinkler,1.76,1.44
+AGV-0479,Andhra Pradesh,Krishna,Maize,Rabi,3.55,1052.6,21.3,Red,6.18,198.9,20.7,200.7,180.7,Rainfed,3.85,3.87
+AGV-0480,Punjab,Ludhiana,Maize,Summer,2.81,675.5,31.2,Loamy,7.1,247.3,25.6,300.4,134.2,Canal,3.62,3.74
+AGV-0481,Tamil Nadu,Madurai,Chickpea,Rabi,1.83,952.7,21.7,Red,6.05,147.8,21.3,145.8,47.9,Tube Well,0.91,1.09
+AGV-0482,Gujarat,Anand,Groundnut,Summer,5.42,776.9,34.9,Black,7.54,193.3,18.6,330.8,58.0,Rainfed,1.61,1.67
+AGV-0483,Uttar Pradesh,Lucknow,Chickpea,Rabi,0.86,969.2,20.0,Loamy,6.29,247.8,32.4,173.6,25.7,Tube Well,1.09,1.07
+AGV-0484,Tamil Nadu,Coimbatore,Wheat,Rabi,6.25,995.5,21.7,Alluvial,6.65,224.6,23.3,211.6,98.1,,,2.91
+AGV-0485,Haryana,Hisar,Rice,Kharif,1.22,461.8,29.3,Loamy,6.67,292.5,28.4,228.4,59.4,Canal,2.55,3.15
+AGV-0486,Maharashtra,Nagpur,Rice,Summer,1.3,886.1,31.8,Clay,7.25,198.7,42.6,207.8,182.2,Tube Well,4.14,3.57
+AGV-0487,Madhya Pradesh,Indore,Soybean,Kharif,1.33,1038.2,30.8,Loamy,7.01,265.8,42.6,156.8,,Tube Well,1.93,1.38
+AGV-0488,Karnataka,Belagavi,Soybean,Kharif,6.96,1395.1,27.6,Red,5.2,176.5,18.1,190.5,41.7,Rainfed,1.06,1.38
+AGV-0489,Gujarat,Surat,Maize,Kharif,2.89,881.9,29.1,Black,7.83,206.0,20.7,250.6,135.1,Sprinkler,3.82,3.52
+AGV-0490,Gujarat,Anand,Chickpea,Rabi,2.62,762.4,24.4,Black,7.81,206.5,21.3,279.1,27.8,Rainfed,1.28,1.22
+AGV-0491,Maharashtra,Nashik,Groundnut,Summer,2.24,1162.3,33.0,Red,5.7,132.8,26.6,141.8,95.1,Tube Well,1.27,1.55
+AGV-0492,Karnataka,Belagavi,Rice,Kharif,2.27,1036.1,28.5,Red,5.81,161.5,23.0,96.6,176.5,Drip,4.51,4.36
+AGV-0493,Tamil Nadu,Madurai,Chickpea,Rabi,2.07,834.1,22.2,Red,5.74,,23.7,125.1,35.4,Canal,1.05,1.18
+AGV-0494,Karnataka,Dharwad,Bajra,Kharif,0.67,1105.1,28.4,Red,5.28,136.7,19.0,121.1,43.6,Rainfed,1.05,0.96
+AGV-0495,Andhra Pradesh,Guntur,Bajra,Kharif,1.65,972.6,30.0,Alluvial,7.09,170.9,31.3,148.4,58.1,Rainfed,1.33,1.64
+AGV-0496,Tamil Nadu,Coimbatore,Wheat,Rabi,0.66,930.9,22.3,Alluvial,7.7,168.5,25.5,332.9,119.8,Tube Well,2.06,2.8
+AGV-0497,Tamil Nadu,Thanjavur,Bajra,Kharif,2.66,851.2,27.0,Red,5.8,139.7,18.6,108.7,64.0,Tube Well,1.22,1.25
+AGV-0498,Punjab,Patiala,Groundnut,Rabi,7.11,803.5,17.9,Alluvial,7.61,285.3,38.6,156.2,23.4,Sprinkler,1.31,1.45
+AGV-0499,Haryana,Rohtak,Rice,Summer,1.24,499.6,32.1,Alluvial,7.09,275.4,42.5,190.3,59.5,Tube Well,2.21,2.9
+AGV-0500,Madhya Pradesh,Jabalpur,Rice,Kharif,2.18,1024.1,28.5,Loamy,6.73,289.9,29.5,215.1,137.1,Rainfed,4.12,4.36
+AGV-0501,Andhra Pradesh,Krishna,Groundnut,Kharif,2.71,1157.2,30.0,Black,7.34,206.6,13.3,249.6,60.0,Drip,1.0,1.5
+AGV-0502,Madhya Pradesh,Jabalpur,Rice,Kharif,2.42,1010.2,26.0,Black,7.71,159.4,15.1,225.4,188.7,Tube Well,3.69,4.02
+AGV-0503,Maharashtra,Nashik,Maize,Kharif,6.52,914.6,28.3,Black,7.47,143.7,19.6,241.1,111.0,Canal,3.71,3.19
+AGV-0504,Andhra Pradesh,Kurnool,Cotton,Kharif,9.88,1050.4,26.7,Red,4.71,171.3,22.3,154.0,94.0,Tube Well,1.41,1.29
+AGV-0505,Uttar Pradesh,Varanasi,Cotton,Kharif,1.38,1142.2,28.1,Alluvial,7.2,385.5,34.7,146.4,103.7,Canal,1.65,1.68
+AGV-0506,Haryana,Hisar,Maize,Kharif,3.42,503.3,27.2,Loamy,6.92,271.5,37.2,240.1,175.5,Drip,5.97,4.8
+AGV-0507,West Bengal,Nadia,Cotton,Kharif,0.37,1376.9,27.3,Loamy,6.14,213.4,38.5,270.5,129.9,Rainfed,1.52,1.73
+AGV-0508,Madhya Pradesh,Indore,Chickpea,Rabi,2.08,1133.0,21.0,Loamy,7.29,284.2,42.5,146.9,55.9,Canal,1.04,1.25
+AGV-0509,Gujarat,Anand,Wheat,Rabi,3.68,803.3,21.9,Sandy,5.91,129.7,12.2,101.6,171.6,Tube Well,3.08,2.41
+AGV-0510,West Bengal,Bardhaman,Cotton,Kharif,1.74,1776.1,28.0,Clay,7.16,195.2,37.6,216.1,69.2,Rainfed,1.43,1.44
+AGV-0511,Tamil Nadu,Madurai,Groundnut,summer,6.83,982.4,31.8,Red,5.9,169.1,13.1,134.8,41.1,Canal,1.42,1.27
+AGV-0512,Andhra Pradesh,Guntur,Cotton,Kharif,8.0,944.0,29.4,Alluvial,6.84,256.8,22.9,161.1,126.1,Canal,2.4,1.65
+AGV-0513,Uttar Pradesh,Varanasi,Wheat,Rabi,1.6,940.6,21.4,Alluvial,6.75,180.2,28.9,191.3,139.3,Rainfed,3.51,4.13
+AGV-0514,Haryana,Hisar,Bajra,Kharif,1.08,513.5,29.7,Alluvial,7.09,274.7,41.5,168.3,60.5,Tube Well,1.93,2.06
+AGV-0515,Tamil Nadu,Coimbatore,Cotton,Kharif,3.65,742.7,27.9,Red,5.22,167.2,22.7,147.4,86.9,Canal,1.54,1.71
+AGV-0516,Punjab,Ludhiana,Soybean,Kharif,2.16,635.0,27.0,Alluvial,6.77,211.3,17.5,178.9,51.4,Canal,1.66,2.26
+AGV-0517,West Bengal,Bardhaman, Chickpea ,Rabi,1.05,1308.1,19.9,Clay,6.68,265.7,37.1,235.0,26.3,Rainfed,1.05,0.99
+AGV-0518,Andhra Pradesh,Krishna,Bajra,Summer,1.37,1080.0,31.4,Alluvial,6.87,215.0,25.2,156.5,,Canal,1.27,1.48
+AGV-0519,Uttar Pradesh,Varanasi,Rice,Kharif,1.73,999.5,23.8,Loamy,6.7,279.9,42.1,162.0,84.5,Canal,3.07,4.06
+AGV-0520,Madhya Pradesh,Jabalpur,Wheat,Rabi,2.91,965.7,18.1,Black,7.86,168.5,20.8,308.2,198.9,Rainfed,2.73,3.47
+AGV-0521,Uttar Pradesh,Lucknow,Rice,Kharif,3.72,1095.3,27.4,loamy,6.3,379.9,27.5,207.3,133.2,Canal,4.6,4.63
+AGV-0522,West Bengal,Hooghly,Bajra,Summer,1.15,1533.0,31.5,LOAMY,6.6,181.6,34.6,193.6,85.3,Tube Well,1.15,1.23
+AGV-0523,Maharashtra,Nashik,Rice,Kharif,4.37,834.1,26.0,Black,8.19,159.4,26.5,286.5,134.4,Drip,3.27,3.41
+AGV-0524,Gujarat,Anand,Groundnut,Rabi,2.98,893.6,24.1,Alluvial,7.01,263.2,33.3,261.0,32.7,Tube Well,1.8,1.96
+AGV-0525,Haryana,Hisar,Chickpea,Rabi,3.03,491.0,21.3,Alluvial,6.47,173.7,43.8,200.7,37.4,drip,1.66,1.37
+AGV-0526,Andhra Pradesh,Guntur,Maize,Rabi,1.66,828.6,22.9,Red,6.18,200.2,34.0,99.8,124.6,Drip,4.13,4.18
+AGV-0527,Madhya Pradesh,Jabalpur,Bajra,Summer,7.02,986.9,30.2,Loamy,,,29.6,250.1,58.9,Tube Well,1.39,1.37
+AGV-0528,West Bengal,Bardhaman,Maize,Summer,0.92,1290.7,33.1,Alluvial,6.74,256.4,32.5,257.6,99.0,Tube Well,2.0,2.27
+AGV-0529,Tamil Nadu,Madurai,Rice,Kharif,1.97,879.0,31.5,Clay,6.87,165.5,34.2,229.9,221.2,Rainfed,3.69,3.46
+AGV-0530,Maharashtra,Nagpur,Cotton,Kharif,2.05,869.0,24.2,Black,8.07,190.8,23.0,199.6,79.1,Drip,1.81,1.68
+AGV-0531,Haryana,Rohtak,Chickpea,RABI,1.95,414.1,19.0,Loamy,6.08,240.6,29.6,142.1,67.3,Tube Well,1.88,1.45
+AGV-0532,Uttar Pradesh,Meerut,Soybean,Kharif,0.94,981.4,28.7,loamy,6.76,264.0,43.4,218.6,47.9,Rainfed,1.89,1.99
+AGV-0533,Tamil Nadu,Madurai,Wheat,Rabi,0.52,981.0,21.4,Alluvial,6.25,214.5,34.8,217.5,122.5,Canal,4.08,2.72
+AGV-0534,Madhya Pradesh,Indore,Wheat,Rabi,2.7,873.8,23.4,Black,7.83,217.3,22.4,319.4,208.8,Tube Well,2.66,3.36
+AGV-0535,Haryana,Hisar,Cotton,Kharif,3.36,414.8,27.0,Loamy,6.87,236.9,35.4,206.3,98.5,Tube Well,3.08,2.06
+AGV-0536,Gujarat,Anand,Soybean,Kharif,0.68,889.2,29.4,Alluvial,7.15,274.8,43.4,173.6,53.0,Canal,1.56,1.75
+AGV-0537,Andhra Pradesh,Kurnool,Wheat,Rabi,9.95,860.6,20.7,Red,6.42,177.9,26.7,191.3,103.1,Tube Well,3.27,2.6
+AGV-0538,Andhra Pradesh,Guntur,Groundnut,Rabi,0.82,1017.6,22.2,Red,6.14,169.0,22.9,145.8,57.9,Rainfed,1.51,1.78
+AGV-0539,Punjab,Ludhiana,Bajra,Summer,4.05,525.7,29.2,Loamy,6.96,142.5,28.2,261.7,81.1,Tube Well,2.15,2.26
+AGV-0540,Karnataka,Belagavi,Rice,Kharif,1.81,1441.4,29.6,Black,7.62,168.4,33.0,312.2,132.4,Rainfed,3.13,3.75
+AGV-0541,Andhra Pradesh,Guntur,Chickpea,Rabi,1.67,1015.4,25.2,Red,5.51,158.3,28.5,158.4,84.2,Sprinkler,1.02,0.8
+AGV-0542,Gujarat,Surat,Cotton,Kharif,1.8,959.4,28.4,Black,8.35,412.8,28.5,285.6,74.5,Drip,1.74,1.82
+AGV-0543,Haryana,Hisar,Rice,Rabi,2.75,539.5,19.4,Alluvial,6.22,250.1,41.4,117.0,93.7,Canal,2.51,2.86
+AGV-0544,Andhra Pradesh,Guntur,Wheat,Rabi,0.89,843.1,23.1,Alluvial,7.11,259.7,28.0,162.1,195.5,Rainfed,4.57,4.31
+AGV-0545,Madhya Pradesh,Bhopal,Groundnut,Kharif,4.73,1072.8,29.0,Loamy,7.09,198.7,42.6,230.0,70.8,Canal,1.92,1.98
+AGV-0546,Karnataka,Dharwad,Maize,Kharif,1.33,1073.4,28.5,Black,7.98,193.7,20.0,348.7,155.5,Canal,2.56,3.15
+AGV-0547,Punjab,Ludhiana,Bajra,Kharif,2.16,586.5,27.1,Sandy,7.48,157.8,15.9,87.7,39.9,Tube Well,1.36,1.4
+AGV-0548,Uttar Pradesh,Meerut,Maize,Kharif,2.71,896.6,27.2,Loamy,7.63,250.2,24.0,228.3,164.9,Tube Well,5.28,3.76
+AGV-0549,Karnataka,Belagavi,Maize,Rabi,3.13,1284.6,19.7,Red,6.4,142.8,20.8,108.1,102.7,Sprinkler,1.96,2.52
+AGV-0550,Tamil Nadu,Coimbatore,Bajra,Summer,1.07,3737.158614283677,31.6,Red,6.47,160.0,19.3,157.6,44.4,Tube Well,0.99,1.18
+AGV-0551,Punjab,Ludhiana,Wheat,rabi,3.26,604.5,21.7,Sandy,6.91,120.5,18.5,83.9,106.2,Tube Well,3.19,3.37
+AGV-0552,West Bengal,Hooghly,Soybean,Kharif,3.39,1640.9,28.6,Alluvial,7.09,177.9,24.9,205.8,77.8,Rainfed,1.23,1.15
+AGV-0553,Maharashtra,Nashik,Rice,Summer,1.66,908.0,31.7,Black,7.56,253.3,22.8,288.8,142.5,Drip,3.69,3.62
+AGV-0554,Uttar Pradesh,Meerut,Bajra,Kharif,27.15,942.8,29.5,Alluvial,6.47,206.9,37.8,209.2,68.9,Tube Well,1.59,1.45
+AGV-0555,West Bengal,Hooghly,Wheat,Rabi,5.52,1674.9,20.7,Alluvial,6.83,213.0,38.4,224.8,96.1,Rainfed,2.76,2.45
+AGV-0556,West Bengal,Nadia,Bajra,Kharif,4.72,1293.6,27.9,Alluvial,6.88,200.6,28.7,237.3,50.1,Rainfed,1.06,1.3
+AGV-0557,Karnataka,Dharwad,Chickpea,Rabi,0.43,871.3,20.7,Black,8.22,173.0,20.6,306.7,46.2,Tube Well,1.28,1.43
+AGV-0558,Maharashtra,Pune,Maize,Rabi,17.97,862.4,20.7,Clay,7.31,182.7,34.8,189.2,274.6,Rainfed,4.57,4.49
+AGV-0559,Punjab,Ludhiana,Wheat,Rabi,3.77,771.5,19.0,Alluvial,6.45,198.0,20.3,229.5,80.4,Rainfed,3.21,3.58
+AGV-0560,West Bengal,Bardhaman,Groundnut,Rabi,6.03,1068.4,17.7,Clay,8.01,305.6,28.7,203.5,41.1,Sprinkler,1.15,1.07
+AGV-0561,Madhya Pradesh,Jabalpur,Soybean,Kharif,2.06,1087.9,27.3,Black,7.86,256.6,23.0,336.6,29.2,Rainfed,,1.66
+AGV-0562,Gujarat,Rajkot,Maize,Kharif,2.5,839.1,29.3,Black,8.5,216.8,33.4,260.5,112.1,Tube Well,3.62,3.07
+AGV-0563,Madhya Pradesh,Indore,Cotton,Kharif,0.79,910.4,29.7,Red,5.72,179.3,20.9,162.5,113.7,Rainfed,1.83,2.02
+AGV-0564,Maharashtra,Nashik,Cotton,Kharif,3.61,948.8,29.4,Red,5.82,192.4,22.2,148.3,98.3,Rainfed,1.81,2.02
+AGV-0565,Maharashtra,Pune,Cotton,Kharif,1.24,815.6,28.3,Black,7.48,193.9,25.9,331.9,137.7,Tube Well,2.25,2.49
+AGV-0566,Haryana,Karnal,Soybean,Kharif,1.32,732.1,28.6,Sandy,6.83,102.4,26.4,136.1,42.9,Canal,1.48,1.6
+AGV-0567,Andhra Pradesh,Krishna,Wheat,Rabi,1.18,937.2,22.2,Red,5.3,152.9,23.9,158.0,102.6,Tube Well,2.61,2.43
+AGV-0568,Uttar Pradesh,Varanasi,Groundnut,Rabi,3.5,779.4,20.8,Loamy,7.72,190.4,36.3,200.7,46.3,Canal,1.72,1.89
+AGV-0569,Haryana,Karnal,Wheat,Rabi,14.96,690.2,22.6,Sandy,6.71,147.1,14.4,104.8,174.7,Sprinkler,3.56,3.66
+AGV-0570,Karnataka,Mysuru,Rice,Kharif,2.32,1037.6,27.1,Red,5.24,158.9,18.5,110.7,107.4,Rainfed,3.78,3.17
+AGV-0571,West Bengal,Hooghly, Maize ,Rabi,21.74,1495.9,19.6,Clay,7.2,194.0,41.3,224.9,137.8,Rainfed,2.58,2.36
+AGV-0572,Madhya Pradesh,Bhopal,Cotton,Kharif,2.44,1123.6,28.5,Loamy,7.71,298.4,38.8,249.2,84.8,Canal,2.06,1.85
+AGV-0573,West Bengal,Hooghly,Maize,Rabi,6.24,1635.9,21.4,Alluvial,6.86,260.7,44.9,154.5,126.0,Drip,2.63,2.77
+AGV-0574,Andhra Pradesh,Krishna,Groundnut,Rabi,0.62,897.3,22.2,Red,5.91,134.4,16.7,113.1,51.6,Canal,1.3,1.51
+AGV-0575,Karnataka,Dharwad,Rice,Kharif,1.69,819.4,27.9,Black,7.35,161.3,23.3,358.0,143.7,Drip,2.98,4.26
+AGV-0576,Karnataka,Belagavi,Maize,Kharif,1.92,1176.0,27.5,Red,6.14,164.4,18.6,151.7,179.4,Drip,3.64,3.12
+AGV-0577,Maharashtra,Nagpur,Chickpea,Rabi,0.3,1293.7,20.2,Clay,6.97,196.4,28.7,224.7,38.4,,1.06,1.07
+AGV-0578,Karnataka,Dharwad,Soybean,Kharif,1.65,1115.8,26.6,Loamy,6.27,232.1,51.1,217.7,78.3,Canal,1.64,1.97
+AGV-0579,Maharashtra,Pune,Rice,Kharif,4.68,897.9,30.6,Red,5.64,115.0,22.7,131.0,115.4,Tube Well,3.2,3.18
+AGV-0580,Punjab,Patiala,Bajra,Kharif,3.49,720.5,24.3,Alluvial,6.3,246.7,38.0,176.5,65.5,Canal,1.57,1.53
+AGV-0581,Uttar Pradesh,Lucknow,Bajra,Kharif,0.31,968.8,28.6,Alluvial,7.04,288.6,42.4,185.5,56.5,Sprinkler,1.25,1.45
+AGV-0582,Karnataka,Mysuru,Groundnut,Rabi,2.36,1356.1,20.8,Black,7.21,180.8,21.9,315.2,33.9,Rainfed,1.11,1.16
+AGV-0583,Maharashtra,Nashik,Wheat,Rabi,2.52,835.4,18.9,Black,,200.3,32.4,248.2,112.7,Rainfed,3.5,3.92
+AGV-0584,Andhra Pradesh,Krishna,Bajra,Kharif,18.73,914.2,30.9,Black,7.54,258.2,34.1,283.2,38.3,Canal,1.26,1.36
+AGV-0585,Tamil Nadu,Coimbatore,Chickpea,Rabi,5.65,805.7,23.0,Red,5.89,168.3,19.3,,30.8,Canal,0.98,1.2
+AGV-0586,Uttar Pradesh,Lucknow,Rice,Kharif,2.99,878.3,24.3,Alluvial,7.63,235.1,31.8,122.6,69.4,Rainfed,,3.7
+AGV-0587,Haryana,Karnal,Maize,Kharif,4.25,614.7,28.6,Alluvial,7.02,267.7,27.0,251.7,152.0,Tube Well,4.07,4.4
+AGV-0588,Madhya Pradesh,Bhopal,Soybean,Kharif,4.26,984.3,25.4,Loamy,7.08,195.1,38.8,215.8,49.0,Rainfed,1.36,1.97
+AGV-0589,West Bengal,Hooghly,Maize,Rabi,7.91,1530.2,18.7,Alluvial,7.68,,34.9,196.4,211.8,Rainfed,2.59,2.71
+AGV-0590,Tamil Nadu,Madurai,Rice,Kharif,13.54,1081.9,31.5,Clay,6.86,200.3,30.6,264.5,102.6,Canal,3.82,3.71
+AGV-0591,Uttar Pradesh,Meerut,Soybean,Kharif,3.53,764.4,28.6,Clay,7.39,199.8,27.3,279.5,35.6,Canal,1.29,1.73
+AGV-0592,Andhra Pradesh,Guntur,Rice,Kharif,1.31,863.1,26.5,Red,,148.5,13.7,155.5,66.0,Tube Well,3.92,3.35
+AGV-0593,Maharashtra,Nashik,Bajra,Kharif,1.2,1173.9,29.9,Clay,7.41,169.5,24.6,353.3,39.2,Canal,1.13,1.3
+AGV-0594,Tamil Nadu,Thanjavur,Wheat,Rabi,9.67,1342.6,22.0,Alluvial,7.63,258.4,28.1,171.5,200.6,Tube Well,2.81,2.21
+AGV-0595,Punjab,Ludhiana,Rice,Kharif,2.64,612.2,25.3,Sandy,6.47,108.3,23.7,121.4,205.6,Tube Well,3.93,2.98
+AGV-0596,Andhra Pradesh,Kurnool,Wheat,Rabi,0.88,1069.3,23.9,Black,8.2,252.7,23.3,235.6,244.8,Tube Well,2.58,2.11
+AGV-0597,Haryana,Karnal,Bajra,Kharif,4.73,533.3,27.7,Sandy,5.8,,18.2,136.0,57.2,Tube Well,1.44,1.56
+AGV-0598,Punjab,Patiala,Rice,Kharif,0.96,615.8,27.0,Loamy,6.8,220.0,33.4,182.9,156.7,Canal,3.6,3.44
+AGV-0599,Gujarat,Rajkot,Soybean,Kharif,0.5,700.4,25.2,Black,7.77,244.8,35.7,235.2,84.6,Canal,1.91,1.95
+AGV-0600,West Bengal,Hooghly,Wheat,Rabi,4.01,1696.3,18.5,Clay,6.27,253.1,26.8,185.6,122.1,Tube Well,,2.33
+AGV-0601,Punjab,Amritsar,Maize,Rabi,3.15,496.8,19.5,Alluvial,6.4,217.2,23.9,151.9,229.4,Sprinkler,3.06,4.05
+AGV-0602,Andhra Pradesh,Kurnool,Wheat,Rabi,0.34,1041.9,23.9,Red,5.61,106.9,15.6,112.4,162.2,Canal,2.57,2.05
+AGV-0603,Andhra Pradesh,Kurnool,Soybean,Kharif,4.42,1009.2,29.2,Black,7.3,203.7,18.0,355.0,113.3,Rainfed,1.28,1.68
+AGV-0604,Punjab,Amritsar,Wheat,Rabi,3.48,679.6,18.7,Alluvial,6.82,222.9,27.4,169.4,147.1,Tube Well,4.34,4.96
+AGV-0605,Uttar Pradesh,Varanasi,Maize,Rabi,0.95,1029.7,20.6,Clay,8.28,271.5,37.6,279.6,237.6,Drip,2.82,3.64
+AGV-0606,West Bengal,Hooghly,Soybean,Kharif,2.31,1614.6,27.7,Alluvial,7.38,408.3,35.5,164.0,33.9,Tube Well,1.22,1.06
+AGV-0607,Gujarat,Anand,Bajra,Summer,6.19,912.2,34.3,Black,8.37,216.0,31.2,245.1,79.0,Tube Well,0.9,1.29
+AGV-0608,Punjab,Ludhiana,Maize,Kharif,2.42,628.7,25.4,Alluvial,6.52,200.3,28.3,165.7,112.2,Tube Well,,4.65
+AGV-0609,Haryana,Hisar,Chickpea,Rabi,2.43,380.6,17.7,Sandy,6.58,157.8,10.2,98.6,26.5,Drip,1.17,1.36
+AGV-0610,Andhra Pradesh,Kurnool,Wheat,Rabi,5.83,902.8,22.6,Alluvial,7.23,172.0,33.4,185.6,153.1,,3.47,3.77
+AGV-0611,Karnataka,Mysuru,Rice,Kharif,4.16,1022.8,26.3,Black,7.98,140.3,20.4,307.6,88.1,Canal,3.57,3.41
+AGV-0612,Maharashtra,Pune,Bajra,Kharif,4.55,872.0,26.5,Red,5.82,149.3,19.5,114.4,34.4,Sprinkler,0.89,1.22
+AGV-0613,Karnataka,Belagavi,Soybean,Kharif,3.52,1212.6,27.9,Red,5.94,154.9,15.3,152.3,57.6,Sprinkler,1.62,1.32
+AGV-0614,Haryana,Rohtak,Soybean,Kharif,1.29,488.7,29.0,ALLUVIAL,7.21,187.9,29.1,238.3,66.0,Rainfed,1.37,1.32
+AGV-0615,Uttar Pradesh,Lucknow,Groundnut,Kharif,1.47,923.2,29.0,Loamy,6.05,221.2,46.8,287.5,35.7,Tube Well,1.83,2.09
+AGV-0616,Tamil Nadu,Madurai,COTTON,Kharif,3.68,945.4,26.2,Alluvial,6.87,171.2,48.2,,80.1,Sprinkler,1.88,1.8
+AGV-0617,Punjab,Ludhiana,Chickpea,Rabi,16.01,455.5,18.3,Loamy,6.78,213.1,44.7,267.1,26.2,Canal,1.83,1.36
+AGV-0618,Haryana,Hisar,GROUNDNUT,Kharif,4.24,411.5,26.1,Sandy,6.15,104.5,13.0,87.4,39.7,Tube Well,2.5,1.95
+AGV-0619,Uttar Pradesh,Varanasi,Wheat,Rabi,2.03,929.5,20.8,Clay,6.87,234.5,17.5,280.3,129.1,Tube Well,2.99,2.99
+AGV-0620,Uttar Pradesh,Lucknow,Chickpea,Rabi,4.74,1045.7,19.1,Loamy,6.23,237.3,44.1,152.1,32.2,Tube Well,1.25,1.04
+AGV-0621,Andhra Pradesh,Krishna,Soybean,Kharif,7.25,872.0,28.9,Alluvial,6.97,212.4,25.9,207.2,45.5,Tube Well,1.51,1.68
+AGV-0622,Haryana,Karnal,Rice,Kharif,1.73,539.4,28.6,Alluvial,7.07,218.3,24.7,221.4,119.9,Rainfed,2.35,2.98
+AGV-0623,Haryana,Hisar,Rice,Kharif,3.1,411.5,27.4,Alluvial,6.95,185.7,35.2,187.5,99.4,Tube Well,3.11,3.14
+AGV-0624,Andhra Pradesh,Kurnool,Rice,Kharif,5.68,968.7,30.1,Red,5.98,145.4,17.3,159.0,58.5,Rainfed,2.46,2.5
+AGV-0625,Haryana,Rohtak,Rice,Summer,0.64,404.9,30.7,Alluvial,6.75,189.9,33.3,172.9,155.8,,2.72,3.07
+AGV-0626,Punjab,Ludhiana,Rice,Kharif,10.7,622.4,25.3,Loamy,6.73,209.0,36.1,198.6,99.9,Tube Well,3.35,3.65
+AGV-0627,Tamil Nadu,Thanjavur,Soybean,Kharif,0.83,1100.1,28.2,Red,5.74,144.4,41.9,122.6,26.9,Tube Well,1.51,1.36
+AGV-0628,Maharashtra,Nashik,Groundnut,Kharif,6.01,1005.6,29.3,Red,6.08,141.6,19.1,208.1,48.5,Rainfed,2.03,2.05
+AGV-0629,Madhya Pradesh,Indore,Cotton,Kharif,3.33,1009.9,27.9,Black,7.66,323.9,16.3,339.2,84.9,Drip,1.64,2.34
+AGV-0630,Haryana,Karnal,Maize,Kharif,0.88,626.2,27.5,Sandy,5.9,93.9,15.1,80.4,220.8,Tube Well,3.99,3.45
+AGV-0631,Madhya Pradesh,Jabalpur,Groundnut,Kharif,1.18,1005.0,29.1,Black,8.01,172.3,22.1,267.6,56.3,Tube Well,1.45,1.93
+AGV-0632,Uttar Pradesh,Lucknow,Cotton,Kharif,3.56,917.8,26.0,Clay,7.51,182.4,22.4,221.9,148.2,Tube Well,1.53,1.83
+AGV-0633,West Bengal,Hooghly,Rice,Summer,8.16,1439.1,31.2,Loamy,6.43,204.6,40.4,198.3,224.0,Rainfed,4.39,4.53
+AGV-0634,Karnataka,Belagavi,Maize,Kharif,1.64,1239.3,27.7,Loamy,7.58,185.4,57.0,202.3,91.8,Drip,3.31,2.62
+AGV-0635,Maharashtra,Nagpur,Cotton,Kharif,3.33,850.9,27.4,Black,8.8,230.1,22.5,247.8,108.6,Drip,2.12,1.91
+AGV-0636,Karnataka,Dharwad,Cotton,Kharif,7.07,1015.9,24.8,Loamy,6.85,177.2,42.8,199.8,191.7,Rainfed,1.64,1.93
+AGV-0637,Andhra Pradesh,Krishna,Cotton,Kharif,2.37,965.5,28.7,Red,5.89,195.3,21.6,113.3,179.0,Tube Well,1.19,1.65
+AGV-0638,Uttar Pradesh,Meerut,Soybean,Kharif,3.52,874.3,28.2,Loamy,7.09,230.2,45.6,206.7,43.0,Tube Well,1.88,1.62
+AGV-0639,Tamil Nadu,Madurai,Cotton,Kharif,3.0,1145.5,28.8,Alluvial,7.29,336.0,35.4,163.0,91.1,Canal,1.57,1.59
+AGV-0640,West Bengal,Nadia,Rice,Rabi,2.68,1543.7,22.7,Clay,8.42,193.1,25.2,270.0,97.8,Tube Well,1.89,2.56
+AGV-0641,Punjab,Amritsar,Cotton,Kharif,2.47,551.5,22.9,Alluvial,6.46,246.7,30.1,228.5,61.0,Canal,2.02,1.71
+AGV-0642,Maharashtra,Pune,Maize,Rabi,2.86,712.7,19.4,Red,6.24,122.0,23.1,142.9,193.1,Rainfed,3.52,3.31
+AGV-0643,Maharashtra,Pune,Chickpea,Rabi,5.86,799.9,23.4,Black,7.6,183.7,15.7,277.6,48.7,Sprinkler,1.45,1.29
+AGV-0644,Tamil Nadu,Coimbatore,Wheat,Rabi,3.6,792.2,23.0,Clay,7.55,278.6,38.6,354.2,156.6,Canal,3.3,2.8
+AGV-0645,Gujarat,Surat,Bajra,Kharif,3.43,1016.1,24.9,Black,7.89,248.3,38.3,324.1,99.5,Drip,1.36,1.27
+AGV-0646,Uttar Pradesh,Lucknow,Cotton,Kharif,6.44,965.9,27.0,Alluvial,6.74,240.9,38.9,151.6,74.8,Tube Well,1.99,1.64
+AGV-0647,Andhra Pradesh,Guntur,Maize,KHARIF,2.91,1079.7,32.4,Black,6.75,184.0,29.7,261.7,203.1,Drip,2.86,3.0
+AGV-0648,Andhra Pradesh,Krishna,Cotton,Kharif,1.93,1080.6,30.6,Black,7.29,147.3,24.0,500.0,160.8,Tube Well,1.93,1.83
+AGV-0649,Maharashtra,Pune,Bajra,Kharif,4.77,926.8,26.9,Clay,6.43,222.6,16.8,226.0,85.7,Drip,1.42,1.44
+AGV-0650,Haryana,Rohtak,Rice,Kharif,3.7,502.5,29.1,Alluvial,6.76,283.4,37.1,188.8,141.2,Tube Well,3.37,3.58
+AGV-0651,Tamil Nadu,Coimbatore, Soybean ,Kharif,8.79,905.0,30.0,Alluvial,7.38,159.8,31.3,208.3,50.8,Tube Well,1.17,1.42
+AGV-0652,Tamil Nadu,Madurai,Soybean,Kharif,0.91,811.5,32.5,Red,5.52,162.5,14.7,141.2,48.0,Drip,1.21,1.66
+AGV-0653,West Bengal,Hooghly,Cotton,Kharif,2.43,1637.3,25.2,Loamy,7.21,178.8,29.5,209.9,125.7,Tube Well,1.54,1.6
+AGV-0654,Madhya Pradesh,Jabalpur,Cotton,Kharif,1.13,1313.6,28.8,Red,6.36,91.9,19.0,174.5,145.2,Sprinkler,0.98,1.33
+AGV-0655,Punjab,Patiala,Maize,Rabi,2.72,754.3,18.7,Alluvial,7.11,179.0,37.4,136.8,80.9,Canal,3.6,3.41
+AGV-0656,Andhra Pradesh,Guntur,Chickpea,Rabi,2.56,1118.5,22.9,Black,8.0,228.3,15.2,195.9,39.1,Canal,1.0,1.05
+AGV-0657,Karnataka,Belagavi,Soybean,Kharif,1.75,958.6,28.0,Black,7.14,186.7,30.0,293.0,30.5,Canal,1.34,1.46
+AGV-0658,Maharashtra,Nagpur,Soybean,Kharif,34.83,962.9,26.4,Red,5.7,126.1,16.2,142.5,48.3,Canal,1.5,1.35
+AGV-0659,Andhra Pradesh,Krishna,Maize,Kharif,2.49,976.4,28.4,Black,7.17,177.8,21.8,284.2,165.6,Rainfed,3.24,3.96
+AGV-0660,Karnataka,Mysuru,Cotton,Kharif,2.27,912.2,27.5,Black,7.96,189.0,20.8,313.4,127.7,Tube Well,2.13,1.73
+AGV-0661,Haryana,Karnal,Rice,Kharif,1.6,710.2,27.5,Loamy,6.85,168.1,49.5,228.0,83.6,Tube Well,4.09,3.83
+AGV-0662,Haryana,Rohtak,Wheat,Rabi,0.86,454.6,21.8,Alluvial,7.93,229.5,27.3,,149.8,Drip,5.06,3.99
+AGV-0663,Maharashtra,Pune,Wheat,Rabi,1.04,815.4,21.9,Black,8.68,195.5,23.8,380.0,110.3,Drip,3.37,2.99
+AGV-0664,Gujarat,Anand,Groundnut,Kharif,4.24,979.6,27.1,Black,7.69,186.5,20.2,294.2,51.4,Canal,1.41,1.6
+AGV-0665,Uttar Pradesh,Lucknow,Bajra,Kharif,3.32,861.7,28.4,Alluvial,7.39,252.2,29.3,245.4,60.0,Sprinkler,1.71,1.37
+AGV-0666,Gujarat,Anand,Bajra,Summer,3.76,928.5,32.7,Black,7.15,221.6,19.6,214.8,1475.8869291492458,Sprinkler,0.96,1.25
+AGV-0667,West Bengal,Bardhaman,Cotton,Kharif,0.73,1565.4,29.5,Alluvial,5.75,300.6,37.5,310.9,87.0,Canal,1.29,1.34
+AGV-0668,Gujarat,Anand,Rice,Kharif,2.66,819.3,28.5,Alluvial,7.47,276.0,42.0,183.7,63.2,Tube Well,3.69,3.5
+AGV-0669,West Bengal,Bardhaman,Maize,Kharif,9.0,1266.6,28.0,Clay,7.63,247.6,34.2,255.0,174.0,Tube Well,2.23,2.94
+AGV-0670,Tamil Nadu,Thanjavur,Groundnut,Kharif,5.82,1060.9,30.7,Red,5.82,165.2,25.0,104.3,41.3,Tube Well,1.77,1.47
+AGV-0671,Uttar Pradesh,Lucknow,Wheat,Rabi,2.56,1012.1,21.6,Alluvial,6.63,193.7,33.6,227.7,91.6,Tube Well,3.1,2.87
+AGV-0672,Madhya Pradesh,Jabalpur,Maize,Rabi,1.65,851.4,19.9,Red,6.13,169.5,23.2,156.3,261.9,Canal,3.25,3.22
+AGV-0673,Gujarat,Rajkot,Maize,Kharif,4.55,856.6,32.2,Sandy,,96.9,20.8,76.2,111.6,Sprinkler,2.79,2.83
+AGV-0674,Karnataka,Mysuru,Maize,kharif,1.46,888.0,26.3,Black,7.98,212.8,19.6,179.9,158.8,Rainfed,3.75,4.4
+AGV-0675,Haryana,Hisar,Cotton,Kharif,3.34,479.7,23.9,Sandy,5.99,82.7,24.7,149.3,123.8,Canal,1.49,1.33
+AGV-0676,Madhya Pradesh,Bhopal,Groundnut,Kharif,5.59,1194.0,25.4,Loamy,6.38,190.7,34.8,218.9,38.7,Drip,1.91,1.68
+AGV-0677,Karnataka,Belagavi,Chickpea,Rabi,4.87,1170.9,17.9,Red,6.03,113.5,20.8,106.8,35.7,Rainfed,0.73,1.04
+AGV-0678,Maharashtra,Nagpur,Wheat,Rabi,0.81,938.4,24.4,Red,6.09,133.4,18.2,119.3,165.3,Tube Well,2.16,2.07
+AGV-0679,Punjab,Amritsar,Maize,Summer,3.66,625.8,28.3,Alluvial,6.17,238.0,24.9,187.5,145.1,Canal,4.9,4.79
+AGV-0680,Andhra Pradesh,Krishna,Rice,Rabi,3.56,1367.9,22.3,Red,6.1,140.9,25.8,163.0,151.1,Tube Well,3.83,3.57
+AGV-0681,Tamil Nadu,Coimbatore,Maize,Rabi,2.28,923.0,19.4,Clay,7.57,176.6,24.9,230.0,141.7,Canal,3.18,3.18
+AGV-0682,Tamil Nadu,Coimbatore,Wheat,Rabi,1.16,878.1,22.6,Red,5.25,146.2,19.5,173.4,143.6,Canal,2.93,2.5
+AGV-0683,Uttar Pradesh,Lucknow,Cotton,Kharif,1.47,918.0,28.2,Alluvial,6.66,241.9,39.8,168.9,108.2,Tube Well,2.34,1.84
+AGV-0684,Tamil Nadu,Coimbatore,Rice,Kharif,3.83,1131.1,28.8,Red,5.83,128.3,13.3,135.4,133.8,Canal,3.78,3.61
+AGV-0685,Madhya Pradesh,Bhopal,Chickpea,Rabi,3.7,1075.3,20.9,Loamy,6.65,259.5,36.2,163.2,24.5,Sprinkler,1.12,1.26
+AGV-0686,Gujarat,Surat,Rice,Kharif,7.64,1049.8,29.8,Black,8.14,184.0,22.8,273.4,118.2,Rainfed,3.21,2.59
+AGV-0687,Tamil Nadu,Madurai,Wheat,Rabi,1.65,1178.9,23.5,Red,6.16,171.4,19.2,208.8,165.4,Rainfed,2.61,2.14
+AGV-0688,Maharashtra,Nagpur,Groundnut,Kharif,2.4,1049.1,27.1,Black,8.08,182.9,21.5,251.7,63.2,Rainfed,2.37,2.12
+AGV-0689,Tamil Nadu,Coimbatore,Bajra,Kharif,2.34,837.2,28.1,Red,5.71,202.1,20.8,181.0,69.6,Rainfed,1.65,1.48
+AGV-0690,Haryana,Rohtak,Wheat,Rabi,1.86,483.4,17.8,Sandy,6.14,124.5,18.9,141.5,86.5,Rainfed,3.09,2.7
+AGV-0691,Haryana,Karnal,Chickpea,Rabi,5.13,617.3,19.1,Alluvial,7.51,183.6,25.9,244.1,40.9,Tube Well,1.48,1.54
+AGV-0692,West Bengal,Bardhaman,Maize,Rabi,5.86,1664.1,20.5,Alluvial,6.66,213.4,39.4,211.7,129.7,Rainfed,2.42,2.64
+AGV-0693,West Bengal,Nadia,Groundnut,Kharif,12.37,1356.2,30.4,Alluvial,6.37,213.0,26.9,156.3,38.9,Tube Well,,1.41
+AGV-0694,West Bengal,Bardhaman,Maize,Kharif,3.37,1083.3,27.9,Alluvial,7.46,,19.9,161.9,108.4,Rainfed,4.76,3.43
+AGV-0695,Haryana,Karnal,Bajra ,Kharif,6.22,610.2,24.4,Alluvial,6.73,326.1,37.5,200.7,44.8,Canal,1.32,1.43
+AGV-0696,Maharashtra,Nashik,RICE,Kharif,1.71,808.2,28.1,Black,7.87,230.5,30.1,269.2,141.8,Drip,3.64,4.08
+AGV-0697,Karnataka,Dharwad,Groundnut,Rabi,6.84,895.6,20.1,Red,5.25,148.7,18.2,181.9,47.0,Tube Well,1.3,1.43
+AGV-0698,Madhya Pradesh,Bhopal,Groundnut,Kharif,6.83,979.8,27.5,Black,6.75,276.3,27.9,246.6,32.3,Rainfed,1.81,1.87
+AGV-0699,Punjab,Patiala,Wheat,Rabi,1.39,708.6,20.5,Loamy,6.5,172.9,30.4,178.7,107.5,Tube Well,4.27,3.78
+AGV-0700,Madhya Pradesh,Bhopal,Bajra,Summer,1.56,1095.0,33.1,Red,5.81,140.4,23.9,169.5,59.7,Tube Well,0.95,1.0

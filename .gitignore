@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.vscode/
+.idea/
+.DS_Store
+
+# generated artefacts (recreate with train_models.py)
+models/*.joblib
+models/*.json
+outputs/*
+!models/.gitkeep
+!outputs/.gitkeep
