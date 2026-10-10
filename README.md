@@ -1,5 +1,10 @@
 # AgroVision AI - Crop Yield Prediction and Agricultural Data Analysis
 
+Video Analysis:
+
+Uploading DataMining.mp4…
+
+
 A beginner-friendly, end-to-end data mining project: a multi-page **Streamlit** dashboard that explores agricultural
 data, **classifies** yield categories (KNN, Naive Bayes, Decision Tree), **clusters** similar records
 (Agglomerative clustering with a dendrogram) and **predicts** crop yield (Linear Regression, Random Forest, XGBoost).
