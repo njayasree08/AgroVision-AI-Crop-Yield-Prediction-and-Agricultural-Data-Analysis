@@ -1,6 +1,6 @@
 # AgroVision AI - Crop Yield Prediction and Agricultural Data Analysis
 
-Live : streamlit run app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true
+Live : https://agrovision-ai-crop-yield-prediction-and-bsjf.onrender.com/
 
 A beginner-friendly, end-to-end data mining project: a multi-page **Streamlit** dashboard that explores agricultural
 data, **classifies** yield categories (KNN, Naive Bayes, Decision Tree), **clusters** similar records
